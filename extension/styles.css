@@ -1,0 +1,90 @@
+body {
+  font-family: Inter, sans-serif;
+  width: 400px;
+  padding: 2px;
+  background-color: #1a1a1a;
+  color:#e0e0e0;
+;
+}
+
+input, textarea {
+  width: 95%;
+  padding: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  background-color: #383838;
+  color:#a0a0a0;
+}
+input.loading,
+textarea.loading{
+  border: 2.5px solid #38382b; 
+  border-radius: 5px;     
+  background-color: white; 
+  color: #000; 
+  
+}
+textarea {
+  resize: vertical;
+  height: 30px;
+  
+}
+
+
+#head {
+  display: flex;            
+  align-items: center;     
+  justify-content: center;
+  text-align: center;
+  color: #f0f0f0;
+  font-size:2em;
+  gap:5px;
+
+}
+.yt-logo {
+
+  height: 1.5em;  
+}
+
+
+
+button {
+  width: 20%;
+  padding: 8px;
+  background-color: #4a4a4a ;
+  border-radius: 5px;
+  color: #f0f0f0;
+  border:#1a2001;
+  font-size: 1.1em;
+  cursor: pointer;
+  font-family: 'Inter', sans-serif;
+  font-weight: bold;
+  transition: background-color 0.3s ease,transform 0.1s ease;
+}
+#askbtn:hover {
+  background-color: #5a5a5a; 
+  box-shadow: 0 0 12px #302901cc, 0 0 6px #1b1700aa; 
+  border-color: #221f01; 
+}
+#askbtn.loading {
+  cursor: not-allowed;
+   color: #f0f0f0;
+  opacity: 0.7;
+  position: relative;
+
+}
+
+#askbtn.loading::after {
+  content: " Loading... ";
+  color: #f0f0f0;
+  animation: blink 2s infinite;
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
+
+

@@ -1,0 +1,1992 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:02.510 align:start position:0%
+ 
+Hey <00:00:00.300><c>everyone </c><00:00:00.600><c>once </c><00:00:00.900><c>again </c><00:00:01.200><c>welcome </c><00:00:01.500><c>to </c><00:00:01.800><c>D </c><00:00:02.100><c>Script</c>
+
+00:00:02.510 --> 00:00:02.520 align:start position:0%
+Hey everyone once again welcome to D Script
+ 
+
+00:00:02.520 --> 00:00:04.850 align:start position:0%
+Hey everyone once again welcome to D Script
+Myself <00:00:02.952><c>Gaurav </c><00:00:03.384><c>and </c><00:00:03.816><c>through </c><00:00:04.248><c>today's </c><00:00:04.680><c>video</c>
+
+00:00:04.850 --> 00:00:04.860 align:start position:0%
+Myself Gaurav and through today's video
+ 
+
+00:00:04.860 --> 00:00:07.550 align:start position:0%
+Myself Gaurav and through today's video
+we <00:00:05.520><c>are </c><00:00:06.180><c>going </c><00:00:06.840><c>to </c><00:00:07.500><c>understand</c>
+
+00:00:07.550 --> 00:00:07.560 align:start position:0%
+we are going to understand
+ 
+
+00:00:07.560 --> 00:00:09.350 align:start position:0%
+we are going to understand
+how <00:00:07.718><c>you </c><00:00:07.876><c>can </c><00:00:08.034><c>draw </c><00:00:08.192><c>polygons </c><00:00:08.350><c>on </c><00:00:08.508><c>any </c><00:00:08.666><c>image </c><00:00:08.824><c>that </c><00:00:08.982><c>you </c><00:00:09.140><c>have, </c><00:00:09.298><c>that</c>
+
+00:00:09.350 --> 00:00:09.360 align:start position:0%
+how you can draw polygons on any image that you have, that
+ 
+
+00:00:09.360 --> 00:00:11.629 align:start position:0%
+how you can draw polygons on any image that you have, that
+means <00:00:09.649><c>we </c><00:00:09.938><c>have </c><00:00:10.227><c>seen </c><00:00:10.516><c>circles, </c><00:00:10.805><c>we </c><00:00:11.094><c>have</c>
+
+00:00:11.629 --> 00:00:11.639 align:start position:0%
+means we have seen circles, we have
+ 
+
+00:00:11.639 --> 00:00:13.430 align:start position:0%
+means we have seen circles, we have
+seen <00:00:11.987><c>rectangles, </c><00:00:12.335><c>we </c><00:00:12.683><c>have </c><00:00:13.031><c>seen </c><00:00:13.379><c>lances,</c>
+
+00:00:13.430 --> 00:00:13.440 align:start position:0%
+seen rectangles, we have seen lances,
+ 
+
+00:00:13.440 --> 00:00:15.289 align:start position:0%
+seen rectangles, we have seen lances,
+but <00:00:13.680><c>if </c><00:00:13.920><c>we </c><00:00:14.160><c>ever </c><00:00:14.400><c>need </c><00:00:14.640><c>to </c><00:00:14.880><c>create </c><00:00:15.120><c>polygons,</c>
+
+00:00:15.289 --> 00:00:15.299 align:start position:0%
+but if we ever need to create polygons,
+ 
+
+00:00:15.299 --> 00:00:17.450 align:start position:0%
+but if we ever need to create polygons,
+we <00:00:15.589><c>have </c><00:00:15.879><c>to </c><00:00:16.169><c>create </c><00:00:16.459><c>pentagons, </c><00:00:16.749><c>hexagons </c><00:00:17.039><c>or</c>
+
+00:00:17.450 --> 00:00:17.460 align:start position:0%
+we have to create pentagons, hexagons or
+ 
+
+00:00:17.460 --> 00:00:19.250 align:start position:0%
+we have to create pentagons, hexagons or
+something <00:00:17.700><c>like </c><00:00:17.940><c>that.  </c><00:00:18.180><c>So </c><00:00:18.420><c>let's </c><00:00:18.660><c>see </c><00:00:18.900><c>how </c><00:00:19.140><c>we</c>
+
+00:00:19.250 --> 00:00:19.260 align:start position:0%
+something like that.  So let's see how we
+ 
+
+00:00:19.260 --> 00:00:20.689 align:start position:0%
+something like that.  So let's see how we
+can <00:00:19.488><c>draw </c><00:00:19.716><c>it, </c><00:00:19.944><c>so </c><00:00:20.172><c>basically </c><00:00:20.400><c>the</c>
+
+00:00:20.689 --> 00:00:20.699 align:start position:0%
+can draw it, so basically the
+ 
+
+00:00:20.699 --> 00:00:22.429 align:start position:0%
+can draw it, so basically the
+polygon <00:00:21.089><c>is </c><00:00:21.479><c>visible, </c><00:00:21.869><c>so </c><00:00:22.259><c>like</c>
+
+00:00:22.429 --> 00:00:22.439 align:start position:0%
+polygon is visible, so like
+ 
+
+00:00:22.439 --> 00:00:23.810 align:start position:0%
+polygon is visible, so like
+I <00:00:22.596><c>have </c><00:00:22.753><c>created </c><00:00:22.910><c>polygons </c><00:00:23.067><c>on </c><00:00:23.224><c>top </c><00:00:23.381><c>of </c><00:00:23.538><c>this </c><00:00:23.695><c>image,</c>
+
+00:00:23.810 --> 00:00:23.820 align:start position:0%
+I have created polygons on top of this image,
+ 
+
+00:00:23.820 --> 00:00:25.970 align:start position:0%
+I have created polygons on top of this image,
+what <00:00:23.989><c>have </c><00:00:24.158><c>I </c><00:00:24.327><c>done </c><00:00:24.496><c>here, </c><00:00:24.665><c>to </c><00:00:24.834><c>cover </c><00:00:25.003><c>up </c><00:00:25.172><c>each </c><00:00:25.341><c>side </c><00:00:25.510><c>of </c><00:00:25.679><c>it,</c>
+
+00:00:25.970 --> 00:00:25.980 align:start position:0%
+what have I done here, to cover up each side of it,
+ 
+
+00:00:25.980 --> 00:00:27.410 align:start position:0%
+what have I done here, to cover up each side of it,
+what <00:00:26.137><c>have </c><00:00:26.294><c>I </c><00:00:26.451><c>done </c><00:00:26.608><c>with </c><00:00:26.765><c>it, </c><00:00:26.922><c>I </c><00:00:27.079><c>have </c><00:00:27.236><c>used</c>
+
+00:00:27.410 --> 00:00:27.420 align:start position:0%
+what have I done with it, I have used
+ 
+
+00:00:27.420 --> 00:00:29.089 align:start position:0%
+what have I done with it, I have used
+polynom, <00:00:28.170><c>so </c><00:00:28.920><c>now</c>
+
+00:00:29.089 --> 00:00:29.099 align:start position:0%
+polynom, so now
+ 
+
+00:00:29.099 --> 00:00:31.189 align:start position:0%
+polynom, so now
+if <00:00:29.373><c>you </c><00:00:29.647><c>ever </c><00:00:29.921><c>need </c><00:00:30.195><c>to </c><00:00:30.469><c>draw </c><00:00:30.743><c>such </c><00:00:31.017><c>polyns,</c>
+
+00:00:31.189 --> 00:00:31.199 align:start position:0%
+if you ever need to draw such polyns,
+ 
+
+00:00:31.199 --> 00:00:33.110 align:start position:0%
+if you ever need to draw such polyns,
+how <00:00:31.386><c>can </c><00:00:31.573><c>you </c><00:00:31.760><c>do </c><00:00:31.947><c>it </c><00:00:32.134><c>through </c><00:00:32.321><c>cv2 </c><00:00:32.508><c>model, </c><00:00:32.695><c>let's</c>
+
+00:00:33.110 --> 00:00:33.120 align:start position:0%
+how can you do it through cv2 model, let's
+ 
+
+00:00:33.120 --> 00:00:34.910 align:start position:0%
+how can you do it through cv2 model, let's
+see <00:00:33.400><c>it </c><00:00:33.680><c>here, </c><00:00:33.960><c>so </c><00:00:34.240><c>first </c><00:00:34.520><c>let </c><00:00:34.800><c>me</c>
+
+00:00:34.910 --> 00:00:34.920 align:start position:0%
+see it here, so first let me
+ 
+
+00:00:34.920 --> 00:00:37.010 align:start position:0%
+see it here, so first let me
+talk <00:00:35.084><c>about </c><00:00:35.248><c>the </c><00:00:35.412><c>image, </c><00:00:35.576><c>the </c><00:00:35.740><c>image </c><00:00:35.904><c>that </c><00:00:36.068><c>we </c><00:00:36.232><c>are </c><00:00:36.396><c>going </c><00:00:36.560><c>to </c><00:00:36.724><c>take </c><00:00:36.888><c>will</c>
+
+00:00:37.010 --> 00:00:37.020 align:start position:0%
+talk about the image, the image that we are going to take will
+ 
+
+00:00:37.020 --> 00:00:38.990 align:start position:0%
+talk about the image, the image that we are going to take will
+be <00:00:37.245><c>this </c><00:00:37.470><c>image, </c><00:00:37.695><c>it </c><00:00:37.920><c>will </c><00:00:38.145><c>be </c><00:00:38.370><c>for </c><00:00:38.595><c>img </c><00:00:38.820><c>4,</c>
+
+00:00:38.990 --> 00:00:39.000 align:start position:0%
+be this image, it will be for img 4,
+ 
+
+00:00:39.000 --> 00:00:41.030 align:start position:0%
+be this image, it will be for img 4,
+here <00:00:39.320><c>this </c><00:00:39.640><c>image </c><00:00:39.960><c>is </c><00:00:40.280><c>inside </c><00:00:40.600><c>img </c><00:00:40.920><c>4,</c>
+
+00:00:41.030 --> 00:00:41.040 align:start position:0%
+here this image is inside img 4,
+ 
+
+00:00:41.040 --> 00:00:42.650 align:start position:0%
+here this image is inside img 4,
+what <00:00:41.205><c>will </c><00:00:41.370><c>we </c><00:00:41.535><c>do </c><00:00:41.700><c>on </c><00:00:41.865><c>this </c><00:00:42.030><c>image, </c><00:00:42.195><c>we </c><00:00:42.360><c>will</c>
+
+00:00:42.650 --> 00:00:42.660 align:start position:0%
+what will we do on this image, we will
+ 
+
+00:00:42.660 --> 00:00:45.110 align:start position:0%
+what will we do on this image, we will
+draw <00:00:42.952><c>our </c><00:00:43.244><c>polygon, </c><00:00:43.536><c>now </c><00:00:43.828><c>for </c><00:00:44.120><c>this </c><00:00:44.412><c>I </c><00:00:44.704><c>will </c><00:00:44.996><c>take</c>
+
+00:00:45.110 --> 00:00:45.120 align:start position:0%
+draw our polygon, now for this I will take
+ 
+
+00:00:45.120 --> 00:00:46.549 align:start position:0%
+draw our polygon, now for this I will take
+you <00:00:45.300><c>to </c><00:00:45.480><c>a </c><00:00:45.660><c>python </c><00:00:45.840><c>file, </c><00:00:46.020><c>this </c><00:00:46.200><c>is</c>
+
+00:00:46.549 --> 00:00:46.559 align:start position:0%
+you to a python file, this is
+ 
+
+00:00:46.559 --> 00:00:48.529 align:start position:0%
+you to a python file, this is
+our <00:00:46.722><c>piping </c><00:00:46.885><c>one, </c><00:00:47.048><c>where </c><00:00:47.211><c>we </c><00:00:47.374><c>are </c><00:00:47.537><c>going </c><00:00:47.700><c>to </c><00:00:47.863><c>do </c><00:00:48.026><c>all </c><00:00:48.189><c>these </c><00:00:48.352><c>reductions,</c>
+
+00:00:48.529 --> 00:00:48.539 align:start position:0%
+our piping one, where we are going to do all these reductions,
+ 
+
+00:00:48.539 --> 00:00:50.270 align:start position:0%
+our piping one, where we are going to do all these reductions,
+so <00:00:49.059><c>for </c><00:00:49.579><c>this </c><00:00:50.099><c>I</c>
+
+00:00:50.270 --> 00:00:50.280 align:start position:0%
+so for this I
+ 
+
+00:00:50.280 --> 00:00:52.670 align:start position:0%
+so for this I
+will <00:00:50.450><c>import </c><00:00:50.620><c>the </c><00:00:50.790><c>cb2 </c><00:00:50.960><c>model </c><00:00:51.130><c>here, </c><00:00:51.300><c>so </c><00:00:51.470><c>what </c><00:00:51.640><c>I </c><00:00:51.810><c>am </c><00:00:51.980><c>doing </c><00:00:52.150><c>here, </c><00:00:52.320><c>I </c><00:00:52.490><c>will</c>
+
+00:00:52.670 --> 00:00:52.680 align:start position:0%
+will import the cb2 model here, so what I am doing here, I will
+ 
+
+00:00:52.680 --> 00:00:53.810 align:start position:0%
+will import the cb2 model here, so what I am doing here, I will
+import <00:00:53.820><c>it,</c>
+
+00:00:53.810 --> 00:00:53.820 align:start position:0%
+import it,
+ 
+
+00:00:53.820 --> 00:00:56.630 align:start position:0%
+import it,
+I <00:00:54.157><c>am </c><00:00:54.494><c>importing </c><00:00:54.831><c>po </c><00:00:55.168><c>and </c><00:00:55.505><c>how </c><00:00:55.842><c>to </c><00:00:56.179><c>do </c><00:00:56.516><c>the</c>
+
+00:00:56.630 --> 00:00:56.640 align:start position:0%
+I am importing po and how to do the
+ 
+
+00:00:56.640 --> 00:00:59.330 align:start position:0%
+I am importing po and how to do the
+cb2 <00:00:57.119><c>model, </c><00:00:57.598><c>the </c><00:00:58.077><c>open </c><00:00:58.556><c>cb </c><00:00:59.035><c>model,</c>
+
+00:00:59.330 --> 00:00:59.340 align:start position:0%
+cb2 model, the open cb model,
+ 
+
+00:00:59.340 --> 00:01:01.970 align:start position:0%
+cb2 model, the open cb model,
+along <00:00:59.600><c>with </c><00:00:59.860><c>this </c><00:01:00.120><c>we </c><00:01:00.380><c>are </c><00:01:00.640><c>going </c><00:01:00.900><c>to </c><00:01:01.160><c>import </c><00:01:01.420><c>it </c><00:01:01.680><c>here,</c>
+
+00:01:01.970 --> 00:01:01.980 align:start position:0%
+along with this we are going to import it here,
+ 
+
+00:01:01.980 --> 00:01:04.609 align:start position:0%
+along with this we are going to import it here,
+what <00:01:02.484><c>will </c><00:01:02.988><c>I </c><00:01:03.492><c>name </c><00:01:03.996><c>it, </c><00:01:04.500><c>so</c>
+
+00:01:04.609 --> 00:01:04.619 align:start position:0%
+what will I name it, so
+ 
+
+00:01:04.619 --> 00:01:07.929 align:start position:0%
+what will I name it, so
+what <00:01:04.785><c>will </c><00:01:04.951><c>I </c><00:01:05.117><c>do </c><00:01:05.283><c>here, </c><00:01:05.449><c>I </c><00:01:05.615><c>will </c><00:01:05.781><c>import </c><00:01:05.947><c>the </c><00:01:06.113><c>number</c>
+
+00:01:07.929 --> 00:01:07.939 align:start position:0%
+what will I do here, I will import the number
+ 
+
+00:01:07.939 --> 00:01:10.850 align:start position:0%
+what will I do here, I will import the number
+And <00:01:08.172><c>let's </c><00:01:08.405><c>run </c><00:01:08.638><c>now </c><00:01:08.871><c>the </c><00:01:09.104><c>next </c><00:01:09.337><c>thing </c><00:01:09.570><c>that </c><00:01:09.803><c>we </c><00:01:10.036><c>will </c><00:01:10.269><c>get </c><00:01:10.502><c>is </c><00:01:10.735><c>what</c>
+
+00:01:10.850 --> 00:01:10.860 align:start position:0%
+And let's run now the next thing that we will get is what
+ 
+
+00:01:10.860 --> 00:01:12.950 align:start position:0%
+And let's run now the next thing that we will get is what
+we <00:01:11.250><c>have </c><00:01:11.640><c>to </c><00:01:12.030><c>do </c><00:01:12.420><c>here</c>
+
+00:01:12.950 --> 00:01:12.960 align:start position:0%
+we have to do here
+ 
+
+00:01:12.960 --> 00:01:15.350 align:start position:0%
+we have to do here
+first <00:01:13.237><c>of </c><00:01:13.514><c>all </c><00:01:13.791><c>we </c><00:01:14.068><c>have </c><00:01:14.345><c>to </c><00:01:14.622><c>load </c><00:01:14.899><c>our </c><00:01:15.176><c>file</c>
+
+00:01:15.350 --> 00:01:15.360 align:start position:0%
+first of all we have to load our file
+ 
+
+00:01:15.360 --> 00:01:16.910 align:start position:0%
+first of all we have to load our file
+and <00:01:15.532><c>what </c><00:01:15.704><c>will </c><00:01:15.876><c>we </c><00:01:16.048><c>do </c><00:01:16.220><c>on </c><00:01:16.392><c>it </c><00:01:16.564><c>we </c><00:01:16.736><c>will</c>
+
+00:01:16.910 --> 00:01:16.920 align:start position:0%
+and what will we do on it we will
+ 
+
+00:01:16.920 --> 00:01:19.130 align:start position:0%
+and what will we do on it we will
+create <00:01:17.110><c>our </c><00:01:17.300><c>polymer </c><00:01:17.490><c>so </c><00:01:17.680><c>to </c><00:01:17.870><c>load </c><00:01:18.060><c>the </c><00:01:18.250><c>file </c><00:01:18.440><c>I </c><00:01:18.630><c>am </c><00:01:18.820><c>going </c><00:01:19.010><c>to</c>
+
+00:01:19.130 --> 00:01:21.710 align:start position:0%
+create our polymer so to load the file I am going to
+ 
+
+00:01:21.710 --> 00:01:21.720 align:start position:0%
+ 
+ 
+
+00:01:21.720 --> 00:01:24.590 align:start position:0%
+ 
+create <00:01:21.918><c>a </c><00:01:22.116><c>variable </c><00:01:22.314><c>here </c><00:01:22.512><c>with </c><00:01:22.710><c>the </c><00:01:22.908><c>name </c><00:01:23.106><c>of </c><00:01:23.304><c>image </c><00:01:23.502><c>as </c><00:01:23.700><c>img</c>
+
+00:01:24.590 --> 00:01:24.600 align:start position:0%
+create a variable here with the name of image as img
+ 
+
+00:01:24.600 --> 00:01:26.810 align:start position:0%
+create a variable here with the name of image as img
+inside <00:01:24.833><c>which </c><00:01:25.066><c>I </c><00:01:25.299><c>am </c><00:01:25.532><c>going </c><00:01:25.765><c>to </c><00:01:25.998><c>use </c><00:01:26.231><c>cbt </c><00:01:26.464><c>you </c><00:01:26.697><c>dot</c>
+
+00:01:26.810 --> 00:01:26.820 align:start position:0%
+inside which I am going to use cbt you dot
+ 
+
+00:01:26.820 --> 00:01:28.789 align:start position:0%
+inside which I am going to use cbt you dot
+here <00:01:27.012><c>what </c><00:01:27.204><c>will </c><00:01:27.396><c>I </c><00:01:27.588><c>do </c><00:01:27.780><c>I </c><00:01:27.972><c>am </c><00:01:28.164><c>read </c><00:01:28.356><c>which </c><00:01:28.548><c>is </c><00:01:28.740><c>the</c>
+
+00:01:28.789 --> 00:01:28.799 align:start position:0%
+here what will I do I am read which is the
+ 
+
+00:01:28.799 --> 00:01:30.590 align:start position:0%
+here what will I do I am read which is the
+function <00:01:29.549><c>here </c><00:01:30.299><c>to</c>
+
+00:01:30.590 --> 00:01:30.600 align:start position:0%
+function here to
+ 
+
+00:01:30.600 --> 00:01:32.690 align:start position:0%
+function here to
+read <00:01:30.792><c>the </c><00:01:30.984><c>file </c><00:01:31.176><c>and </c><00:01:31.368><c>what </c><00:01:31.560><c>is </c><00:01:31.752><c>the </c><00:01:31.944><c>name </c><00:01:32.136><c>of </c><00:01:32.328><c>the </c><00:01:32.520><c>file</c>
+
+00:01:32.690 --> 00:01:32.700 align:start position:0%
+read the file and what is the name of the file
+ 
+
+00:01:32.700 --> 00:01:35.149 align:start position:0%
+read the file and what is the name of the file
+here <00:01:33.034><c>its </c><00:01:33.368><c>name </c><00:01:33.702><c>is </c><00:01:34.036><c>four </c><00:01:34.370><c>so </c><00:01:34.704><c>I </c><00:01:35.038><c>am</c>
+
+00:01:35.149 --> 00:01:35.159 align:start position:0%
+here its name is four so I am
+ 
+
+00:01:35.159 --> 00:01:38.030 align:start position:0%
+here its name is four so I am
+four <00:01:35.435><c>so </c><00:01:35.711><c>I </c><00:01:35.987><c>am </c><00:01:36.263><c>g </c><00:01:36.539><c>un </c><00:01:36.815><c>dot </c><00:01:37.091><c>4 </c><00:01:37.367><c>you </c><00:01:37.643><c>have </c><00:01:37.919><c>the</c>
+
+00:01:38.030 --> 00:01:38.040 align:start position:0%
+four so I am g un dot 4 you have the
+ 
+
+00:01:38.040 --> 00:01:40.010 align:start position:0%
+four so I am g un dot 4 you have the
+name <00:01:38.254><c>of </c><00:01:38.468><c>the </c><00:01:38.682><c>image </c><00:01:38.896><c>and </c><00:01:39.110><c>after </c><00:01:39.324><c>that </c><00:01:39.538><c>we</c>
+
+00:01:40.010 --> 00:01:40.020 align:start position:0%
+name of the image and after that we
+ 
+
+00:01:40.020 --> 00:01:42.170 align:start position:0%
+name of the image and after that we
+recise <00:01:40.311><c>it </c><00:01:40.602><c>this </c><00:01:40.893><c>is </c><00:01:41.184><c>a </c><00:01:41.475><c>very </c><00:01:41.766><c>big </c><00:01:42.057><c>image</c>
+
+00:01:42.170 --> 00:01:42.180 align:start position:0%
+recise it this is a very big image
+ 
+
+00:01:42.180 --> 00:01:44.810 align:start position:0%
+recise it this is a very big image
+so <00:01:42.453><c>all </c><00:01:42.726><c>image </c><00:01:42.999><c>equals </c><00:01:43.272><c>you </c><00:01:43.545><c>I </c><00:01:43.818><c>am </c><00:01:44.091><c>doing </c><00:01:44.364><c>it </c><00:01:44.637><c>here</c>
+
+00:01:44.810 --> 00:01:44.820 align:start position:0%
+so all image equals you I am doing it here
+ 
+
+00:01:44.820 --> 00:01:48.170 align:start position:0%
+so all image equals you I am doing it here
+cc <00:01:45.222><c>you </c><00:01:45.624><c>dot </c><00:01:46.026><c>here </c><00:01:46.428><c>we </c><00:01:46.830><c>recise </c><00:01:47.232><c>and </c><00:01:47.634><c>recise</c>
+
+00:01:48.170 --> 00:01:48.180 align:start position:0%
+cc you dot here we recise and recise
+ 
+
+00:01:48.180 --> 00:01:50.410 align:start position:0%
+cc you dot here we recise and recise
+it <00:01:48.899><c>using </c><00:01:49.618><c>recise</c>
+
+00:01:50.410 --> 00:01:50.420 align:start position:0%
+it using recise
+ 
+
+00:01:50.420 --> 00:01:53.090 align:start position:0%
+it using recise
+so <00:01:50.739><c>I </c><00:01:51.058><c>said </c><00:01:51.377><c>we </c><00:01:51.696><c>are </c><00:01:52.015><c>resizing </c><00:01:52.334><c>the </c><00:01:52.653><c>old </c><00:01:52.972><c>image</c>
+
+00:01:53.090 --> 00:01:53.100 align:start position:0%
+so I said we are resizing the old image
+ 
+
+00:01:53.100 --> 00:01:56.149 align:start position:0%
+so I said we are resizing the old image
+and <00:01:53.312><c>whatever </c><00:01:53.524><c>size </c><00:01:53.736><c>we </c><00:01:53.948><c>want </c><00:01:54.160><c>to </c><00:01:54.372><c>make </c><00:01:54.584><c>it </c><00:01:54.796><c>here </c><00:01:55.008><c>so </c><00:01:55.220><c>I </c><00:01:55.432><c>want</c>
+
+00:01:56.149 --> 00:01:56.159 align:start position:0%
+and whatever size we want to make it here so I want
+ 
+
+00:01:56.159 --> 00:01:58.670 align:start position:0%
+and whatever size we want to make it here so I want
+here <00:01:56.627><c>this </c><00:01:57.095><c>500 </c><00:01:57.563><c>* </c><00:01:58.031><c>you </c><00:01:58.499><c>have</c>
+
+00:01:58.670 --> 00:01:58.680 align:start position:0%
+here this 500 * you have
+ 
+
+00:01:58.680 --> 00:01:59.870 align:start position:0%
+here this 500 * you have
+6
+
+00:01:59.870 --> 00:01:59.880 align:start position:0%
+6
+ 
+
+00:01:59.880 --> 00:02:02.149 align:start position:0%
+6
+images <00:02:00.560><c>right </c><00:02:01.240><c>now </c><00:02:01.920><c>let's</c>
+
+00:02:02.149 --> 00:02:02.159 align:start position:0%
+images right now let's
+ 
+
+00:02:02.159 --> 00:02:04.130 align:start position:0%
+images right now let's
+see <00:02:02.469><c>this </c><00:02:02.779><c>old </c><00:02:03.089><c>image </c><00:02:03.399><c>once </c><00:02:03.709><c>so </c><00:02:04.019><c>to</c>
+
+00:02:04.130 --> 00:02:04.140 align:start position:0%
+see this old image once so to
+ 
+
+00:02:04.140 --> 00:02:07.069 align:start position:0%
+see this old image once so to
+see <00:02:04.415><c>the </c><00:02:04.690><c>old </c><00:02:04.965><c>image </c><00:02:05.240><c>what </c><00:02:05.515><c>will </c><00:02:05.790><c>I </c><00:02:06.065><c>do </c><00:02:06.340><c>here </c><00:02:06.615><c>cv2 </c><00:02:06.890><c>yes</c>
+
+00:02:07.069 --> 00:02:07.079 align:start position:0%
+see the old image what will I do here cv2 yes
+ 
+
+00:02:07.079 --> 00:02:10.370 align:start position:0%
+see the old image what will I do here cv2 yes
+You <00:02:07.323><c>dot </c><00:02:07.567><c>I </c><00:02:07.811><c>will </c><00:02:08.055><c>do </c><00:02:08.299><c>that </c><00:02:08.543><c>here </c><00:02:08.787><c>I </c><00:02:09.031><c>am </c><00:02:09.275><c>going </c><00:02:09.519><c>to </c><00:02:09.763><c>do </c><00:02:10.007><c>it </c><00:02:10.251><c>for</c>
+
+00:02:10.370 --> 00:02:10.380 align:start position:0%
+You dot I will do that here I am going to do it for
+ 
+
+00:02:10.380 --> 00:02:13.130 align:start position:0%
+You dot I will do that here I am going to do it for
+you, <00:02:10.895><c>for </c><00:02:11.410><c>redefunction, </c><00:02:11.925><c>it </c><00:02:12.440><c>will </c><00:02:12.955><c>be</c>
+
+00:02:13.130 --> 00:02:13.140 align:start position:0%
+you, for redefunction, it will be
+ 
+
+00:02:13.140 --> 00:02:14.930 align:start position:0%
+you, for redefunction, it will be
+read <00:02:13.275><c>through </c><00:02:13.410><c>the </c><00:02:13.545><c>read </c><00:02:13.680><c>function, </c><00:02:13.815><c>for </c><00:02:13.950><c>this </c><00:02:14.085><c>first </c><00:02:14.220><c>of </c><00:02:14.355><c>all </c><00:02:14.490><c>I </c><00:02:14.625><c>have </c><00:02:14.760><c>to</c>
+
+00:02:14.930 --> 00:02:14.940 align:start position:0%
+read through the read function, for this first of all I have to
+ 
+
+00:02:14.940 --> 00:02:17.449 align:start position:0%
+read through the read function, for this first of all I have to
+create <00:02:15.163><c>a </c><00:02:15.386><c>frame, </c><00:02:15.609><c>so </c><00:02:15.832><c>the </c><00:02:16.055><c>name </c><00:02:16.278><c>of </c><00:02:16.501><c>the </c><00:02:16.724><c>frame </c><00:02:16.947><c>is </c><00:02:17.170><c>s </c><00:02:17.393><c>k,</c>
+
+00:02:17.449 --> 00:02:17.459 align:start position:0%
+create a frame, so the name of the frame is s k,
+ 
+
+00:02:17.459 --> 00:02:20.570 align:start position:0%
+create a frame, so the name of the frame is s k,
+after <00:02:17.759><c>that </c><00:02:18.059><c>next </c><00:02:18.359><c>here </c><00:02:18.659><c>is </c><00:02:18.959><c>the </c><00:02:19.259><c>image, </c><00:02:19.559><c>I </c><00:02:19.859><c>will </c><00:02:20.159><c>have </c><00:02:20.459><c>to</c>
+
+00:02:20.570 --> 00:02:20.580 align:start position:0%
+after that next here is the image, I will have to
+ 
+
+00:02:20.580 --> 00:02:22.690 align:start position:0%
+after that next here is the image, I will have to
+take <00:02:20.880><c>it, </c><00:02:21.180><c>so </c><00:02:21.480><c>old </c><00:02:21.780><c>image</c>
+
+00:02:22.690 --> 00:02:22.700 align:start position:0%
+take it, so old image
+ 
+
+00:02:22.700 --> 00:02:25.490 align:start position:0%
+take it, so old image
+dot <00:02:22.906><c>here </c><00:02:23.112><c>what </c><00:02:23.318><c>will </c><00:02:23.524><c>we </c><00:02:23.730><c>do </c><00:02:23.936><c>with </c><00:02:24.142><c>the </c><00:02:24.348><c>help </c><00:02:24.554><c>of </c><00:02:24.760><c>wait </c><00:02:24.966><c>key, </c><00:02:25.172><c>we </c><00:02:25.378><c>will</c>
+
+00:02:25.490 --> 00:02:25.500 align:start position:0%
+dot here what will we do with the help of wait key, we will
+ 
+
+00:02:25.500 --> 00:02:27.170 align:start position:0%
+dot here what will we do with the help of wait key, we will
+close <00:02:25.880><c>our </c><00:02:26.260><c>windows, </c><00:02:26.640><c>so</c>
+
+00:02:27.170 --> 00:02:27.180 align:start position:0%
+close our windows, so
+ 
+
+00:02:27.180 --> 00:02:29.210 align:start position:0%
+close our windows, so
+wait, <00:02:27.499><c>I </c><00:02:27.818><c>have </c><00:02:28.137><c>given </c><00:02:28.456><c>zero </c><00:02:28.775><c>inside, </c><00:02:29.094><c>then</c>
+
+00:02:29.210 --> 00:02:29.220 align:start position:0%
+wait, I have given zero inside, then
+ 
+
+00:02:29.220 --> 00:02:30.830 align:start position:0%
+wait, I have given zero inside, then
+after <00:02:29.386><c>that </c><00:02:29.552><c>I </c><00:02:29.718><c>am </c><00:02:29.884><c>doing </c><00:02:30.050><c>it </c><00:02:30.216><c>here, </c><00:02:30.382><c>s </c><00:02:30.548><c>c </c><00:02:30.714><c>you</c>
+
+00:02:30.830 --> 00:02:30.840 align:start position:0%
+after that I am doing it here, s c you
+ 
+
+00:02:30.840 --> 00:02:33.949 align:start position:0%
+after that I am doing it here, s c you
+dot <00:02:31.250><c>here </c><00:02:31.660><c>destroy </c><00:02:32.070><c>all </c><00:02:32.480><c>windows, </c><00:02:32.890><c>with </c><00:02:33.300><c>which</c>
+
+00:02:33.949 --> 00:02:33.959 align:start position:0%
+dot here destroy all windows, with which
+ 
+
+00:02:33.959 --> 00:02:35.449 align:start position:0%
+dot here destroy all windows, with which
+we <00:02:34.419><c>have </c><00:02:34.879><c>to </c><00:02:35.339><c>do</c>
+
+00:02:35.449 --> 00:02:35.459 align:start position:0%
+we have to do
+ 
+
+00:02:35.459 --> 00:02:37.850 align:start position:0%
+we have to do
+desktrod, <00:02:36.019><c>run, </c><00:02:36.579><c>ok, </c><00:02:37.139><c>a</c>
+
+00:02:37.850 --> 00:02:37.860 align:start position:0%
+desktrod, run, ok, a
+ 
+
+00:02:37.860 --> 00:02:39.830 align:start position:0%
+desktrod, run, ok, a
+small <00:02:38.170><c>mistake </c><00:02:38.480><c>has </c><00:02:38.790><c>happened </c><00:02:39.100><c>here, </c><00:02:39.410><c>I </c><00:02:39.720><c>am</c>
+
+00:02:39.830 --> 00:02:39.840 align:start position:0%
+small mistake has happened here, I am
+ 
+
+00:02:39.840 --> 00:02:42.410 align:start position:0%
+small mistake has happened here, I am
+sir <00:02:40.147><c>function </c><00:02:40.454><c>will </c><00:02:40.761><c>be </c><00:02:41.068><c>installed </c><00:02:41.375><c>here, </c><00:02:41.682><c>from </c><00:02:41.989><c>tomorrow </c><00:02:42.296><c>we</c>
+
+00:02:42.410 --> 00:02:42.420 align:start position:0%
+sir function will be installed here, from tomorrow we
+ 
+
+00:02:42.420 --> 00:02:44.990 align:start position:0%
+sir function will be installed here, from tomorrow we
+will <00:02:42.712><c>show </c><00:02:43.004><c>here </c><00:02:43.296><c>and </c><00:02:43.588><c>inside </c><00:02:43.880><c>that </c><00:02:44.172><c>first </c><00:02:44.464><c>of </c><00:02:44.756><c>all</c>
+
+00:02:44.990 --> 00:02:45.000 align:start position:0%
+will show here and inside that first of all
+ 
+
+00:02:45.000 --> 00:02:47.030 align:start position:0%
+will show here and inside that first of all
+I <00:02:45.169><c>have </c><00:02:45.338><c>to </c><00:02:45.507><c>name </c><00:02:45.676><c>your </c><00:02:45.845><c>stream, </c><00:02:46.014><c>so </c><00:02:46.183><c>I </c><00:02:46.352><c>gave </c><00:02:46.521><c>the </c><00:02:46.690><c>name </c><00:02:46.859><c>of</c>
+
+00:02:47.030 --> 00:02:47.040 align:start position:0%
+I have to name your stream, so I gave the name of
+ 
+
+00:02:47.040 --> 00:02:49.070 align:start position:0%
+I have to name your stream, so I gave the name of
+WS <00:02:47.270><c>when </c><00:02:47.500><c>I </c><00:02:47.730><c>named </c><00:02:47.960><c>the </c><00:02:48.190><c>frame </c><00:02:48.420><c>and</c>
+
+00:02:49.070 --> 00:02:49.080 align:start position:0%
+WS when I named the frame and
+ 
+
+00:02:49.080 --> 00:02:51.110 align:start position:0%
+WS when I named the frame and
+next <00:02:49.400><c>I </c><00:02:49.720><c>kept </c><00:02:50.040><c>the </c><00:02:50.360><c>old </c><00:02:50.680><c>image </c><00:02:51.000><c>here,</c>
+
+00:02:51.110 --> 00:02:51.120 align:start position:0%
+next I kept the old image here,
+ 
+
+00:02:51.120 --> 00:02:53.570 align:start position:0%
+next I kept the old image here,
+this <00:02:51.599><c>is </c><00:02:52.078><c>what </c><00:02:52.557><c>you </c><00:02:53.036><c>have, </c><00:02:53.515><c>the</c>
+
+00:02:53.570 --> 00:02:53.580 align:start position:0%
+this is what you have, the
+ 
+
+00:02:53.580 --> 00:02:55.490 align:start position:0%
+this is what you have, the
+image <00:02:53.738><c>is </c><00:02:53.896><c>here, </c><00:02:54.054><c>in </c><00:02:54.212><c>this </c><00:02:54.370><c>way </c><00:02:54.528><c>it </c><00:02:54.686><c>is </c><00:02:54.844><c>showing </c><00:02:55.002><c>a </c><00:02:55.160><c>very </c><00:02:55.318><c>good</c>
+
+00:02:55.490 --> 00:02:55.500 align:start position:0%
+image is here, in this way it is showing a very good
+ 
+
+00:02:55.500 --> 00:02:57.050 align:start position:0%
+image is here, in this way it is showing a very good
+image, <00:02:55.705><c>now </c><00:02:55.910><c>what </c><00:02:56.115><c>will </c><00:02:56.320><c>we </c><00:02:56.525><c>do </c><00:02:56.730><c>inside </c><00:02:56.935><c>this,</c>
+
+00:02:57.050 --> 00:02:57.060 align:start position:0%
+image, now what will we do inside this,
+ 
+
+00:02:57.060 --> 00:02:59.210 align:start position:0%
+image, now what will we do inside this,
+whatever <00:02:57.390><c>we </c><00:02:57.720><c>want </c><00:02:58.050><c>to </c><00:02:58.380><c>draw </c><00:02:58.710><c>our </c><00:02:59.040><c>pentagon,</c>
+
+00:02:59.210 --> 00:03:00.350 align:start position:0%
+whatever we want to draw our pentagon,
+ 
+
+00:03:00.350 --> 00:03:00.360 align:start position:0%
+ 
+ 
+
+00:03:00.360 --> 00:03:03.229 align:start position:0%
+ 
+now <00:03:00.779><c>if </c><00:03:01.198><c>you </c><00:03:01.617><c>want </c><00:03:02.036><c>to </c><00:03:02.455><c>draw, </c><00:03:02.874><c>then</c>
+
+00:03:03.229 --> 00:03:03.239 align:start position:0%
+now if you want to draw, then
+ 
+
+00:03:03.239 --> 00:03:04.790 align:start position:0%
+now if you want to draw, then
+what <00:03:03.316><c>will </c><00:03:03.393><c>we </c><00:03:03.470><c>have </c><00:03:03.547><c>to </c><00:03:03.624><c>do </c><00:03:03.701><c>for </c><00:03:03.778><c>that, </c><00:03:03.855><c>now </c><00:03:03.932><c>we </c><00:03:04.009><c>will </c><00:03:04.086><c>create </c><00:03:04.163><c>a </c><00:03:04.240><c>new </c><00:03:04.317><c>image </c><00:03:04.394><c>with </c><00:03:04.471><c>the </c><00:03:04.548><c>name,</c>
+
+00:03:04.790 --> 00:03:04.800 align:start position:0%
+what will we have to do for that, now we will create a new image with the name,
+ 
+
+00:03:04.800 --> 00:03:07.030 align:start position:0%
+what will we have to do for that, now we will create a new image with the name,
+so <00:03:05.460><c>I </c><00:03:06.120><c>will </c><00:03:06.780><c>put</c>
+
+00:03:07.030 --> 00:03:07.040 align:start position:0%
+so I will put
+ 
+
+00:03:07.040 --> 00:03:10.309 align:start position:0%
+so I will put
+new <00:03:07.283><c>underscore </c><00:03:07.526><c>here  </c><00:03:07.769><c>I </c><00:03:08.012><c>am </c><00:03:08.255><c>creating </c><00:03:08.498><c>a </c><00:03:08.741><c>bar </c><00:03:08.984><c>with </c><00:03:09.227><c>the </c><00:03:09.470><c>name </c><00:03:09.713><c>of </c><00:03:09.956><c>IMG </c><00:03:10.199><c>in</c>
+
+00:03:10.309 --> 00:03:10.319 align:start position:0%
+new underscore here  I am creating a bar with the name of IMG in
+ 
+
+00:03:10.319 --> 00:03:12.949 align:start position:0%
+new underscore here  I am creating a bar with the name of IMG in
+which <00:03:10.811><c>I </c><00:03:11.303><c>and </c><00:03:11.795><c>you </c><00:03:12.287><c>dot </c><00:03:12.779><c>here</c>
+
+00:03:12.949 --> 00:03:12.959 align:start position:0%
+which I and you dot here
+ 
+
+00:03:12.959 --> 00:03:15.050 align:start position:0%
+which I and you dot here
+we <00:03:13.367><c>have </c><00:03:13.775><c>poly </c><00:03:14.183><c>line, </c><00:03:14.591><c>here </c><00:03:14.999><c>the</c>
+
+00:03:15.050 --> 00:03:15.060 align:start position:0%
+we have poly line, here the
+ 
+
+00:03:15.060 --> 00:03:17.750 align:start position:0%
+we have poly line, here the
+function <00:03:15.300><c>is </c><00:03:15.540><c>yes </c><00:03:15.780><c>what </c><00:03:16.020><c>do </c><00:03:16.260><c>you </c><00:03:16.500><c>have, </c><00:03:16.740><c>poly </c><00:03:16.980><c>is </c><00:03:17.220><c>your</c>
+
+00:03:17.750 --> 00:03:17.760 align:start position:0%
+function is yes what do you have, poly is your
+ 
+
+00:03:17.760 --> 00:03:20.210 align:start position:0%
+function is yes what do you have, poly is your
+line <00:03:17.950><c>function </c><00:03:18.140><c>with </c><00:03:18.330><c>the </c><00:03:18.520><c>help </c><00:03:18.710><c>of </c><00:03:18.900><c>which </c><00:03:19.090><c>we </c><00:03:19.280><c>are </c><00:03:19.470><c>going </c><00:03:19.660><c>to </c><00:03:19.850><c>reduce </c><00:03:20.040><c>it</c>
+
+00:03:20.210 --> 00:03:20.220 align:start position:0%
+line function with the help of which we are going to reduce it
+ 
+
+00:03:20.220 --> 00:03:21.949 align:start position:0%
+line function with the help of which we are going to reduce it
+now <00:03:20.760><c>inside </c><00:03:21.300><c>this </c><00:03:21.840><c>polynom</c>
+
+00:03:21.949 --> 00:03:21.959 align:start position:0%
+now inside this polynom
+ 
+
+00:03:21.959 --> 00:03:23.149 align:start position:0%
+now inside this polynom
+we <00:03:22.359><c>have </c><00:03:22.759><c>many </c><00:03:23.159><c>parameters</c>
+
+00:03:23.149 --> 00:03:23.159 align:start position:0%
+we have many parameters
+ 
+
+00:03:23.159 --> 00:03:25.550 align:start position:0%
+we have many parameters
+so <00:03:23.433><c>I </c><00:03:23.707><c>will </c><00:03:23.981><c>write </c><00:03:24.255><c>all </c><00:03:24.529><c>these </c><00:03:24.803><c>parameters </c><00:03:25.077><c>here,</c>
+
+00:03:25.550 --> 00:03:25.560 align:start position:0%
+so I will write all these parameters here,
+ 
+
+00:03:25.560 --> 00:03:27.949 align:start position:0%
+so I will write all these parameters here,
+okay <00:03:25.909><c>we </c><00:03:26.258><c>will </c><00:03:26.607><c>change </c><00:03:26.956><c>these </c><00:03:27.305><c>parameters </c><00:03:27.654><c>one</c>
+
+00:03:27.949 --> 00:03:27.959 align:start position:0%
+okay we will change these parameters one
+ 
+
+00:03:27.959 --> 00:03:30.949 align:start position:0%
+okay we will change these parameters one
+by <00:03:28.241><c>one </c><00:03:28.523><c>and </c><00:03:28.805><c>here </c><00:03:29.087><c>I </c><00:03:29.369><c>will </c><00:03:29.651><c>remove </c><00:03:29.933><c>this </c><00:03:30.215><c>old </c><00:03:30.497><c>image </c><00:03:30.779><c>and</c>
+
+00:03:30.949 --> 00:03:30.959 align:start position:0%
+by one and here I will remove this old image and
+ 
+
+00:03:30.959 --> 00:03:33.770 align:start position:0%
+by one and here I will remove this old image and
+keep <00:03:31.454><c>a </c><00:03:31.949><c>new </c><00:03:32.444><c>image, </c><00:03:32.939><c>right</c>
+
+00:03:33.770 --> 00:03:33.780 align:start position:0%
+keep a new image, right
+ 
+
+00:03:33.780 --> 00:03:35.630 align:start position:0%
+keep a new image, right
+this <00:03:34.028><c>is </c><00:03:34.276><c>my </c><00:03:34.524><c>new </c><00:03:34.772><c>image, </c><00:03:35.020><c>now </c><00:03:35.268><c>inside </c><00:03:35.516><c>this</c>
+
+00:03:35.630 --> 00:03:35.640 align:start position:0%
+this is my new image, now inside this
+ 
+
+00:03:35.640 --> 00:03:37.369 align:start position:0%
+this is my new image, now inside this
+first <00:03:35.806><c>of </c><00:03:35.972><c>all </c><00:03:36.138><c>we </c><00:03:36.304><c>have </c><00:03:36.470><c>to </c><00:03:36.636><c>give </c><00:03:36.802><c>our </c><00:03:36.968><c>image, </c><00:03:37.134><c>so</c>
+
+00:03:37.369 --> 00:03:37.379 align:start position:0%
+first of all we have to give our image, so
+ 
+
+00:03:37.379 --> 00:03:38.990 align:start position:0%
+first of all we have to give our image, so
+I <00:03:37.519><c>have </c><00:03:37.659><c>given </c><00:03:37.799><c>the </c><00:03:37.939><c>image </c><00:03:38.079><c>here, </c><00:03:38.219><c>give </c><00:03:38.359><c>the </c><00:03:38.499><c>old </c><00:03:38.639><c>image</c>
+
+00:03:38.990 --> 00:03:39.000 align:start position:0%
+I have given the image here, give the old image
+ 
+
+00:03:39.000 --> 00:03:41.270 align:start position:0%
+I have given the image here, give the old image
+next <00:03:39.384><c>we </c><00:03:39.768><c>get </c><00:03:40.152><c>what </c><00:03:40.536><c>is </c><00:03:40.920><c>this</c>
+
+00:03:41.270 --> 00:03:41.280 align:start position:0%
+next we get what is this
+ 
+
+00:03:41.280 --> 00:03:42.649 align:start position:0%
+next we get what is this
+thing, <00:03:41.490><c>first </c><00:03:41.700><c>let's </c><00:03:41.910><c>take </c><00:03:42.120><c>care </c><00:03:42.330><c>of </c><00:03:42.540><c>it,</c>
+
+00:03:42.649 --> 00:03:42.659 align:start position:0%
+thing, first let's take care of it,
+ 
+
+00:03:42.659 --> 00:03:45.110 align:start position:0%
+thing, first let's take care of it,
+then <00:03:42.967><c>after </c><00:03:43.275><c>that </c><00:03:43.583><c>we </c><00:03:43.891><c>will </c><00:03:44.199><c>proceed, </c><00:03:44.507><c>so </c><00:03:44.815><c>we</c>
+
+00:03:45.110 --> 00:03:45.120 align:start position:0%
+then after that we will proceed, so we
+ 
+
+00:03:45.120 --> 00:03:46.729 align:start position:0%
+then after that we will proceed, so we
+have <00:03:45.420><c>this </c><00:03:45.720><c>image </c><00:03:46.020><c>here, </c><00:03:46.320><c>inside </c><00:03:46.620><c>this</c>
+
+00:03:46.729 --> 00:03:46.739 align:start position:0%
+have this image here, inside this
+ 
+
+00:03:46.739 --> 00:03:49.070 align:start position:0%
+have this image here, inside this
+our <00:03:47.294><c>pits </c><00:03:47.849><c>means </c><00:03:48.404><c>that </c><00:03:48.959><c>this</c>
+
+00:03:49.070 --> 00:03:49.080 align:start position:0%
+our pits means that this
+ 
+
+00:03:49.080 --> 00:03:50.509 align:start position:0%
+our pits means that this
+point <00:03:49.220><c>which </c><00:03:49.360><c>you </c><00:03:49.500><c>are </c><00:03:49.640><c>seeing, </c><00:03:49.780><c>the </c><00:03:49.920><c>coordinates </c><00:03:50.060><c>of </c><00:03:50.200><c>this </c><00:03:50.340><c>point</c>
+
+00:03:50.509 --> 00:03:50.519 align:start position:0%
+point which you are seeing, the coordinates of this point
+ 
+
+00:03:50.519 --> 00:03:52.190 align:start position:0%
+point which you are seeing, the coordinates of this point
+means <00:03:50.685><c>you </c><00:03:50.851><c>have </c><00:03:51.017><c>to </c><00:03:51.183><c>give </c><00:03:51.349><c>the </c><00:03:51.515><c>coordinates </c><00:03:51.681><c>of </c><00:03:51.847><c>this </c><00:03:52.013><c>point</c>
+
+00:03:52.190 --> 00:03:52.200 align:start position:0%
+means you have to give the coordinates of this point
+ 
+
+00:03:52.200 --> 00:03:53.509 align:start position:0%
+means you have to give the coordinates of this point
+inside <00:03:52.800><c>the </c><00:03:53.400><c>mobile,</c>
+
+00:03:53.509 --> 00:03:53.519 align:start position:0%
+inside the mobile,
+ 
+
+00:03:53.519 --> 00:03:55.550 align:start position:0%
+inside the mobile,
+then <00:03:53.705><c>you </c><00:03:53.891><c>have </c><00:03:54.077><c>to </c><00:03:54.263><c>give </c><00:03:54.449><c>the </c><00:03:54.635><c>coordinates </c><00:03:54.821><c>of </c><00:03:55.007><c>this </c><00:03:55.193><c>point</c>
+
+00:03:55.550 --> 00:03:55.560 align:start position:0%
+then you have to give the coordinates of this point
+ 
+
+00:03:55.560 --> 00:03:57.530 align:start position:0%
+then you have to give the coordinates of this point
+inside <00:03:55.657><c>x </c><00:03:55.754><c>com </c><00:03:55.851><c>a, </c><00:03:55.948><c>you </c><00:03:56.045><c>have </c><00:03:56.142><c>to </c><00:03:56.239><c>give </c><00:03:56.336><c>the </c><00:03:56.433><c>coordinates </c><00:03:56.530><c>of </c><00:03:56.627><c>this </c><00:03:56.724><c>point </c><00:03:56.821><c>inside </c><00:03:56.918><c>x </c><00:03:57.015><c>co </c><00:03:57.112><c>a, </c><00:03:57.209><c>you </c><00:03:57.306><c>have </c><00:03:57.403><c>to</c>
+
+00:03:57.530 --> 00:03:59.330 align:start position:0%
+inside x com a, you have to give the coordinates of this point inside x co a, you have to
+ 
+
+00:03:59.330 --> 00:03:59.340 align:start position:0%
+ 
+ 
+
+00:03:59.340 --> 00:04:00.289 align:start position:0%
+ 
+give <00:03:59.640><c>the</c>
+
+00:04:00.289 --> 00:04:00.299 align:start position:0%
+give the
+ 
+
+00:04:00.299 --> 00:04:03.710 align:start position:0%
+give the
+coordinates <00:04:00.702><c>of </c><00:04:01.105><c>the </c><00:04:01.508><c>point </c><00:04:01.911><c>inside </c><00:04:02.314><c>x </c><00:04:02.717><c>a</c>
+
+00:04:03.710 --> 00:04:03.720 align:start position:0%
+coordinates of the point inside x a
+ 
+
+00:04:03.720 --> 00:04:05.630 align:start position:0%
+coordinates of the point inside x a
+You <00:04:03.863><c>have </c><00:04:04.006><c>to </c><00:04:04.149><c>give </c><00:04:04.292><c>the </c><00:04:04.435><c>coordinates </c><00:04:04.578><c>of </c><00:04:04.721><c>this </c><00:04:04.864><c>point </c><00:04:05.007><c>x </c><00:04:05.150><c>A </c><00:04:05.293><c>K. </c><00:04:05.436><c>So, </c><00:04:05.579><c>let's</c>
+
+00:04:05.630 --> 00:04:05.640 align:start position:0%
+You have to give the coordinates of this point x A K. So, let's
+ 
+
+00:04:05.640 --> 00:04:07.550 align:start position:0%
+You have to give the coordinates of this point x A K. So, let's
+talk <00:04:07.440><c>about</c>
+
+00:04:07.550 --> 00:04:07.560 align:start position:0%
+talk about
+ 
+
+00:04:07.560 --> 00:04:09.170 align:start position:0%
+talk about
+how <00:04:07.645><c>many </c><00:04:07.730><c>ordinances </c><00:04:07.815><c>we </c><00:04:07.900><c>are </c><00:04:07.985><c>going </c><00:04:08.070><c>to </c><00:04:08.155><c>give </c><00:04:08.240><c>here. </c><00:04:08.325><c>We </c><00:04:08.410><c>are </c><00:04:08.495><c>going </c><00:04:08.580><c>to </c><00:04:08.665><c>give </c><00:04:08.750><c>punch</c>
+
+00:04:09.170 --> 00:04:09.180 align:start position:0%
+how many ordinances we are going to give here. We are going to give punch
+ 
+
+00:04:09.180 --> 00:04:11.149 align:start position:0%
+how many ordinances we are going to give here. We are going to give punch
+cards. <00:04:09.405><c>Now </c><00:04:09.630><c>what </c><00:04:09.855><c>happens </c><00:04:10.080><c>inside </c><00:04:10.305><c>this </c><00:04:10.530><c>is </c><00:04:10.755><c>that </c><00:04:10.980><c>the</c>
+
+00:04:11.149 --> 00:04:11.159 align:start position:0%
+cards. Now what happens inside this is that the
+ 
+
+00:04:11.159 --> 00:04:13.130 align:start position:0%
+cards. Now what happens inside this is that the
+pits <00:04:11.579><c>that </c><00:04:11.999><c>you </c><00:04:12.419><c>have, </c><00:04:12.839><c>the</c>
+
+00:04:13.130 --> 00:04:13.140 align:start position:0%
+pits that you have, the
+ 
+
+00:04:13.140 --> 00:04:14.809 align:start position:0%
+pits that you have, the
+pits <00:04:13.392><c>that </c><00:04:13.644><c>are </c><00:04:13.896><c>formed </c><00:04:14.148><c>inside </c><00:04:14.400><c>this,</c>
+
+00:04:14.809 --> 00:04:14.819 align:start position:0%
+pits that are formed inside this,
+ 
+
+00:04:14.819 --> 00:04:16.310 align:start position:0%
+pits that are formed inside this,
+what <00:04:15.024><c>do </c><00:04:15.229><c>you </c><00:04:15.434><c>have </c><00:04:15.639><c>here, </c><00:04:15.844><c>Napier </c><00:04:16.049><c>is </c><00:04:16.254><c>formed,</c>
+
+00:04:16.310 --> 00:04:16.320 align:start position:0%
+what do you have here, Napier is formed,
+ 
+
+00:04:16.320 --> 00:04:19.129 align:start position:0%
+what do you have here, Napier is formed,
+Nampal <00:04:16.779><c>is </c><00:04:17.238><c>formed, </c><00:04:17.697><c>an </c><00:04:18.156><c>array </c><00:04:18.615><c>is </c><00:04:19.074><c>formed.</c>
+
+00:04:19.129 --> 00:04:19.139 align:start position:0%
+Nampal is formed, an array is formed.
+ 
+
+00:04:19.139 --> 00:04:22.129 align:start position:0%
+Nampal is formed, an array is formed.
+What <00:04:19.491><c>do </c><00:04:19.843><c>you </c><00:04:20.195><c>have </c><00:04:20.547><c>to </c><00:04:20.899><c>do </c><00:04:21.251><c>inside </c><00:04:21.603><c>this </c><00:04:21.955><c>number,</c>
+
+00:04:22.129 --> 00:04:22.139 align:start position:0%
+What do you have to do inside this number,
+ 
+
+00:04:22.139 --> 00:04:23.930 align:start position:0%
+What do you have to do inside this number,
+first <00:04:22.289><c>of </c><00:04:22.439><c>all </c><00:04:22.589><c>you </c><00:04:22.739><c>have </c><00:04:22.889><c>to </c><00:04:23.039><c>make </c><00:04:23.189><c>an </c><00:04:23.339><c>array, </c><00:04:23.489><c>you </c><00:04:23.639><c>have </c><00:04:23.789><c>to </c><00:04:23.939><c>make</c>
+
+00:04:23.930 --> 00:04:23.940 align:start position:0%
+first of all you have to make an array, you have to make
+ 
+
+00:04:23.940 --> 00:04:26.510 align:start position:0%
+first of all you have to make an array, you have to make
+all <00:04:25.080><c>completely </c><00:04:26.220><c>fixed,</c>
+
+00:04:26.510 --> 00:04:26.520 align:start position:0%
+all completely fixed,
+ 
+
+00:04:26.520 --> 00:04:28.550 align:start position:0%
+all completely fixed,
+what <00:04:26.712><c>do </c><00:04:26.904><c>you </c><00:04:27.096><c>have </c><00:04:27.288><c>to </c><00:04:27.480><c>do </c><00:04:27.672><c>inside </c><00:04:27.864><c>this, </c><00:04:28.056><c>you </c><00:04:28.248><c>have </c><00:04:28.440><c>to</c>
+
+00:04:28.550 --> 00:04:28.560 align:start position:0%
+what do you have to do inside this, you have to
+ 
+
+00:04:28.560 --> 00:04:30.530 align:start position:0%
+what do you have to do inside this, you have to
+prepare <00:04:28.965><c>a </c><00:04:29.370><c>list. </c><00:04:29.775><c>Now </c><00:04:30.180><c>the</c>
+
+00:04:30.530 --> 00:04:30.540 align:start position:0%
+prepare a list. Now the
+ 
+
+00:04:30.540 --> 00:04:32.150 align:start position:0%
+prepare a list. Now the
+cards <00:04:30.690><c>of </c><00:04:30.840><c>all </c><00:04:30.990><c>the </c><00:04:31.140><c>five </c><00:04:31.290><c>lists </c><00:04:31.440><c>will </c><00:04:31.590><c>be </c><00:04:31.740><c>prepared </c><00:04:31.890><c>like </c><00:04:32.040><c>this.</c>
+
+00:04:32.150 --> 00:04:32.160 align:start position:0%
+cards of all the five lists will be prepared like this.
+ 
+
+00:04:32.160 --> 00:04:34.129 align:start position:0%
+cards of all the five lists will be prepared like this.
+Now <00:04:32.800><c>this </c><00:04:33.440><c>nampayryer </c><00:04:34.080><c>is</c>
+
+00:04:34.129 --> 00:04:34.139 align:start position:0%
+Now this nampayryer is
+ 
+
+00:04:34.139 --> 00:04:35.870 align:start position:0%
+Now this nampayryer is
+totally <00:04:34.301><c>with </c><00:04:34.463><c>you, </c><00:04:34.625><c>it </c><00:04:34.787><c>will </c><00:04:34.949><c>be </c><00:04:35.111><c>face </c><00:04:35.273><c>inside </c><00:04:35.435><c>it </c><00:04:35.597><c>like </c><00:04:35.759><c>this.</c>
+
+00:04:35.870 --> 00:04:35.880 align:start position:0%
+totally with you, it will be face inside it like this.
+ 
+
+00:04:35.880 --> 00:04:38.030 align:start position:0%
+totally with you, it will be face inside it like this.
+You <00:04:36.154><c>have </c><00:04:36.428><c>to </c><00:04:36.702><c>do </c><00:04:36.976><c>this </c><00:04:37.250><c>work </c><00:04:37.524><c>in </c><00:04:37.798><c>this</c>
+
+00:04:38.030 --> 00:04:38.040 align:start position:0%
+You have to do this work in this
+ 
+
+00:04:38.040 --> 00:04:39.890 align:start position:0%
+You have to do this work in this
+way, <00:04:38.173><c>you </c><00:04:38.306><c>will </c><00:04:38.439><c>be </c><00:04:38.572><c>able </c><00:04:38.705><c>to </c><00:04:38.838><c>prepare </c><00:04:38.971><c>it </c><00:04:39.104><c>here. </c><00:04:39.237><c>Let's</c>
+
+00:04:39.890 --> 00:04:39.900 align:start position:0%
+way, you will be able to prepare it here. Let's
+ 
+
+00:04:39.900 --> 00:04:41.810 align:start position:0%
+way, you will be able to prepare it here. Let's
+write <00:04:40.799><c>this </c><00:04:41.698><c>formation</c>
+
+00:04:41.810 --> 00:04:41.820 align:start position:0%
+write this formation
+ 
+
+00:04:41.820 --> 00:04:43.249 align:start position:0%
+write this formation
+and <00:04:42.060><c>finish </c><00:04:42.300><c>the </c><00:04:42.540><c>work </c><00:04:42.780><c>quickly. </c><00:04:43.020><c>So</c>
+
+00:04:43.249 --> 00:04:43.259 align:start position:0%
+and finish the work quickly. So
+ 
+
+00:04:43.259 --> 00:04:44.870 align:start position:0%
+and finish the work quickly. So
+for <00:04:43.419><c>that, </c><00:04:43.579><c>first </c><00:04:43.739><c>of </c><00:04:43.899><c>all </c><00:04:44.059><c>I </c><00:04:44.219><c>will </c><00:04:44.379><c>prepare </c><00:04:44.539><c>a </c><00:04:44.699><c>list.</c>
+
+00:04:44.870 --> 00:04:44.880 align:start position:0%
+for that, first of all I will prepare a list.
+ 
+
+00:04:44.880 --> 00:04:46.790 align:start position:0%
+for that, first of all I will prepare a list.
+I <00:04:45.097><c>have </c><00:04:45.314><c>made </c><00:04:45.531><c>this </c><00:04:45.748><c>list. </c><00:04:45.965><c>Now </c><00:04:46.182><c>I </c><00:04:46.399><c>have </c><00:04:46.616><c>to</c>
+
+00:04:46.790 --> 00:04:46.800 align:start position:0%
+I have made this list. Now I have to
+ 
+
+00:04:46.800 --> 00:04:48.469 align:start position:0%
+I have made this list. Now I have to
+give <00:04:46.941><c>the </c><00:04:47.082><c>Nampai </c><00:04:47.223><c>ones </c><00:04:47.364><c>inside </c><00:04:47.505><c>it. </c><00:04:47.646><c>So </c><00:04:47.787><c>let </c><00:04:47.928><c>me </c><00:04:48.069><c>do </c><00:04:48.210><c>one </c><00:04:48.351><c>thing.</c>
+
+00:04:48.469 --> 00:04:48.479 align:start position:0%
+give the Nampai ones inside it. So let me do one thing.
+ 
+
+00:04:48.479 --> 00:04:49.969 align:start position:0%
+give the Nampai ones inside it. So let me do one thing.
+I <00:04:48.767><c>will </c><00:04:49.055><c>bring </c><00:04:49.343><c>the </c><00:04:49.631><c>pits </c><00:04:49.919><c>down</c>
+
+00:04:49.969 --> 00:04:49.979 align:start position:0%
+I will bring the pits down
+ 
+
+00:04:49.979 --> 00:04:51.650 align:start position:0%
+I will bring the pits down
+here <00:04:50.210><c>because </c><00:04:50.441><c>I </c><00:04:50.672><c>have </c><00:04:50.903><c>to </c><00:04:51.134><c>give </c><00:04:51.365><c>the </c><00:04:51.596><c>number</c>
+
+00:04:51.650 --> 00:04:51.660 align:start position:0%
+here because I have to give the number
+ 
+
+00:04:51.660 --> 00:04:54.830 align:start position:0%
+here because I have to give the number
+here.  <00:04:51.870><c>I </c><00:04:52.080><c>will </c><00:04:52.290><c>use </c><00:04:52.500><c>the </c><00:04:52.710><c>ARE </c><00:04:52.920><c>function </c><00:04:53.130><c>at </c><00:04:53.340><c>NP </c><00:04:53.550><c>dot </c><00:04:53.760><c>here. </c><00:04:53.970><c>I </c><00:04:54.180><c>will </c><00:04:54.390><c>use </c><00:04:54.600><c>the</c>
+
+00:04:54.830 --> 00:04:54.840 align:start position:0%
+here.  I will use the ARE function at NP dot here. I will use the
+ 
+
+00:04:54.840 --> 00:04:57.230 align:start position:0%
+here.  I will use the ARE function at NP dot here. I will use the
+ARA <00:04:57.060><c>function.</c>
+
+00:04:57.230 --> 00:04:57.240 align:start position:0%
+ARA function.
+ 
+
+00:04:57.240 --> 00:04:59.270 align:start position:0%
+ARA function.
+Inside <00:04:57.564><c>this </c><00:04:57.888><c>function, </c><00:04:58.212><c>first </c><00:04:58.536><c>we </c><00:04:58.860><c>will</c>
+
+00:04:59.270 --> 00:04:59.280 align:start position:0%
+Inside this function, first we will
+ 
+
+00:04:59.280 --> 00:05:00.830 align:start position:0%
+Inside this function, first we will
+create <00:04:59.485><c>a </c><00:04:59.690><c>list </c><00:04:59.895><c>and </c><00:05:00.100><c>inside </c><00:05:00.305><c>it </c><00:05:00.510><c>we </c><00:05:00.715><c>will</c>
+
+00:05:00.830 --> 00:05:00.840 align:start position:0%
+create a list and inside it we will
+ 
+
+00:05:00.840 --> 00:05:03.230 align:start position:0%
+create a list and inside it we will
+create <00:05:01.220><c>a </c><00:05:01.600><c>small </c><00:05:01.980><c>list. </c><00:05:02.360><c>Now </c><00:05:02.740><c>I </c><00:05:03.120><c>am</c>
+
+00:05:03.230 --> 00:05:03.240 align:start position:0%
+create a small list. Now I am
+ 
+
+00:05:03.240 --> 00:05:05.030 align:start position:0%
+create a small list. Now I am
+going <00:05:03.510><c>to </c><00:05:03.780><c>give </c><00:05:04.050><c>any </c><00:05:04.320><c>random </c><00:05:04.590><c>point </c><00:05:04.860><c>and</c>
+
+00:05:05.030 --> 00:05:05.040 align:start position:0%
+going to give any random point and
+ 
+
+00:05:05.040 --> 00:05:07.010 align:start position:0%
+going to give any random point and
+make <00:05:05.250><c>a </c><00:05:05.460><c>pentagon </c><00:05:05.670><c>from </c><00:05:05.880><c>it. </c><00:05:06.090><c>After </c><00:05:06.300><c>that, </c><00:05:06.510><c>I </c><00:05:06.720><c>will</c>
+
+00:05:07.010 --> 00:05:07.020 align:start position:0%
+make a pentagon from it. After that, I will
+ 
+
+00:05:07.020 --> 00:05:09.170 align:start position:0%
+make a pentagon from it. After that, I will
+show <00:05:07.302><c>you </c><00:05:07.584><c>here </c><00:05:07.866><c>next </c><00:05:08.148><c>how </c><00:05:08.430><c>it </c><00:05:08.712><c>will </c><00:05:08.994><c>reduce.</c>
+
+00:05:09.170 --> 00:05:09.180 align:start position:0%
+show you here next how it will reduce.
+ 
+
+00:05:09.180 --> 00:05:10.850 align:start position:0%
+show you here next how it will reduce.
+Then <00:05:09.310><c>we </c><00:05:09.440><c>will </c><00:05:09.570><c>keep </c><00:05:09.700><c>adjusting </c><00:05:09.830><c>it </c><00:05:09.960><c>and </c><00:05:10.090><c>it </c><00:05:10.220><c>will </c><00:05:10.350><c>keep </c><00:05:10.480><c>reducing. </c><00:05:10.610><c>So</c>
+
+00:05:10.850 --> 00:05:10.860 align:start position:0%
+Then we will keep adjusting it and it will keep reducing. So
+ 
+
+00:05:10.860 --> 00:05:13.010 align:start position:0%
+Then we will keep adjusting it and it will keep reducing. So
+first <00:05:11.500><c>of </c><00:05:12.140><c>all, </c><00:05:12.780><c>the</c>
+
+00:05:13.010 --> 00:05:13.020 align:start position:0%
+first of all, the
+ 
+
+00:05:13.020 --> 00:05:15.830 align:start position:0%
+first of all, the
+image <00:05:13.278><c>is </c><00:05:13.536><c>quite </c><00:05:13.794><c>big </c><00:05:14.052><c>inside </c><00:05:14.310><c>this </c><00:05:14.568><c>image. </c><00:05:14.826><c>Here </c><00:05:15.084><c>you </c><00:05:15.342><c>have </c><00:05:15.600><c>this</c>
+
+00:05:15.830 --> 00:05:15.840 align:start position:0%
+image is quite big inside this image. Here you have this
+ 
+
+00:05:15.840 --> 00:05:17.930 align:start position:0%
+image is quite big inside this image. Here you have this
+image, <00:05:16.039><c>right, </c><00:05:16.238><c>this </c><00:05:16.437><c>image </c><00:05:16.636><c>is </c><00:05:16.835><c>an </c><00:05:17.034><c>image. </c><00:05:17.233><c>So, </c><00:05:17.432><c>we </c><00:05:17.631><c>will</c>
+
+00:05:17.930 --> 00:05:17.940 align:start position:0%
+image, right, this image is an image. So, we will
+ 
+
+00:05:17.940 --> 00:05:19.730 align:start position:0%
+image, right, this image is an image. So, we will
+start <00:05:18.081><c>from </c><00:05:18.222><c>here. </c><00:05:18.363><c>We </c><00:05:18.504><c>will </c><00:05:18.645><c>start </c><00:05:18.786><c>from </c><00:05:18.927><c>here. </c><00:05:19.068><c>Then </c><00:05:19.209><c>we </c><00:05:19.350><c>will </c><00:05:19.491><c>go</c>
+
+00:05:19.730 --> 00:05:19.740 align:start position:0%
+start from here. We will start from here. Then we will go
+ 
+
+00:05:19.740 --> 00:05:21.290 align:start position:0%
+start from here. We will start from here. Then we will go
+up. <00:05:19.824><c>Then </c><00:05:19.908><c>we </c><00:05:19.992><c>will </c><00:05:20.076><c>go </c><00:05:20.160><c>down. </c><00:05:20.244><c>Then </c><00:05:20.328><c>we </c><00:05:20.412><c>will </c><00:05:20.496><c>come </c><00:05:20.580><c>to </c><00:05:20.664><c>this </c><00:05:20.748><c>side. </c><00:05:20.832><c>Then </c><00:05:20.916><c>we </c><00:05:21.000><c>will </c><00:05:21.084><c>come </c><00:05:21.168><c>to</c>
+
+00:05:21.290 --> 00:05:21.300 align:start position:0%
+up. Then we will go down. Then we will come to this side. Then we will come to
+ 
+
+00:05:21.300 --> 00:05:23.270 align:start position:0%
+up. Then we will go down. Then we will come to this side. Then we will come to
+this <00:05:21.600><c>side. </c><00:05:21.900><c>So, </c><00:05:22.200><c>first </c><00:05:22.500><c>we </c><00:05:22.800><c>will</c>
+
+00:05:23.270 --> 00:05:23.280 align:start position:0%
+this side. So, first we will
+ 
+
+00:05:23.280 --> 00:05:24.830 align:start position:0%
+this side. So, first we will
+create <00:05:23.477><c>anything </c><00:05:23.674><c>random. </c><00:05:23.871><c>After </c><00:05:24.068><c>this, </c><00:05:24.265><c>we </c><00:05:24.462><c>will </c><00:05:24.659><c>keep</c>
+
+00:05:24.830 --> 00:05:24.840 align:start position:0%
+create anything random. After this, we will keep
+ 
+
+00:05:24.840 --> 00:05:27.170 align:start position:0%
+create anything random. After this, we will keep
+adjusting. <00:05:25.190><c>So, </c><00:05:25.540><c>first </c><00:05:25.890><c>of </c><00:05:26.240><c>all, </c><00:05:26.590><c>let </c><00:05:26.940><c>us</c>
+
+00:05:27.170 --> 00:05:27.180 align:start position:0%
+adjusting. So, first of all, let us
+ 
+
+00:05:27.180 --> 00:05:30.110 align:start position:0%
+adjusting. So, first of all, let us
+give <00:05:28.150><c>it </c><00:05:29.120><c>here.</c>
+
+00:05:30.110 --> 00:05:30.120 align:start position:0%
+give it here.
+ 
+
+00:05:30.120 --> 00:05:34.430 align:start position:0%
+give it here.
+I <00:05:30.438><c>have </c><00:05:30.756><c>to </c><00:05:31.074><c>go </c><00:05:31.392><c>120 </c><00:05:31.710><c>within </c><00:05:32.028><c>120. </c><00:05:32.346><c>120 </c><00:05:32.664><c>will </c><00:05:32.982><c>become </c><00:05:33.300><c>more. </c><00:05:33.618><c>So, </c><00:05:33.936><c>let </c><00:05:34.254><c>us</c>
+
+00:05:34.430 --> 00:05:34.440 align:start position:0%
+I have to go 120 within 120. 120 will become more. So, let us
+ 
+
+00:05:34.440 --> 00:05:36.710 align:start position:0%
+I have to go 120 within 120. 120 will become more. So, let us
+reduce <00:05:35.099><c>it </c><00:05:35.758><c>by </c><00:05:36.417><c>100.</c>
+
+00:05:36.710 --> 00:05:36.720 align:start position:0%
+reduce it by 100.
+ 
+
+00:05:36.720 --> 00:05:38.689 align:start position:0%
+reduce it by 100.
+After <00:05:36.939><c>100, </c><00:05:37.158><c>how </c><00:05:37.377><c>much </c><00:05:37.596><c>do </c><00:05:37.815><c>you </c><00:05:38.034><c>have? </c><00:05:38.253><c>We </c><00:05:38.472><c>have </c><00:05:38.691><c>to</c>
+
+00:05:38.689 --> 00:05:38.699 align:start position:0%
+After 100, how much do you have? We have to
+ 
+
+00:05:38.699 --> 00:05:42.469 align:start position:0%
+After 100, how much do you have? We have to
+go <00:05:39.196><c>400 </c><00:05:39.693><c>here. </c><00:05:40.190><c>Okay, </c><00:05:40.687><c>this </c><00:05:41.184><c>has </c><00:05:41.681><c>become </c><00:05:42.178><c>our</c>
+
+00:05:42.469 --> 00:05:42.479 align:start position:0%
+go 400 here. Okay, this has become our
+ 
+
+00:05:42.479 --> 00:05:44.629 align:start position:0%
+go 400 here. Okay, this has become our
+first <00:05:42.726><c>point. </c><00:05:42.973><c>After </c><00:05:43.220><c>that, </c><00:05:43.467><c>the </c><00:05:43.714><c>second </c><00:05:43.961><c>point </c><00:05:44.208><c>will </c><00:05:44.455><c>be</c>
+
+00:05:44.629 --> 00:05:44.639 align:start position:0%
+first point. After that, the second point will be
+ 
+
+00:05:44.639 --> 00:05:48.550 align:start position:0%
+first point. After that, the second point will be
+above <00:05:44.902><c>and </c><00:05:45.165><c>will </c><00:05:45.428><c>be </c><00:05:45.691><c>on </c><00:05:45.954><c>this </c><00:05:46.217><c>side. </c><00:05:46.480><c>So, </c><00:05:46.743><c>we </c><00:05:47.006><c>will </c><00:05:47.269><c>go </c><00:05:47.532><c>100 </c><00:05:47.795><c>with </c><00:05:48.058><c>you</c>
+
+00:05:48.550 --> 00:05:48.560 align:start position:0%
+above and will be on this side. So, we will go 100 with you
+ 
+
+00:05:48.560 --> 00:05:52.070 align:start position:0%
+above and will be on this side. So, we will go 100 with you
+and <00:05:49.204><c>it </c><00:05:49.848><c>will </c><00:05:50.492><c>be </c><00:05:51.136><c>above.  </c><00:05:51.780><c>So</c>
+
+00:05:52.070 --> 00:05:52.080 align:start position:0%
+and it will be above.  So
+ 
+
+00:05:52.080 --> 00:05:55.129 align:start position:0%
+and it will be above.  So
+what <00:05:52.347><c>will </c><00:05:52.614><c>happen </c><00:05:52.881><c>to </c><00:05:53.148><c>you, </c><00:05:53.415><c>you </c><00:05:53.682><c>are </c><00:05:53.949><c>taking </c><00:05:54.216><c>it </c><00:05:54.483><c>near </c><00:05:54.750><c>300, </c><00:05:55.017><c>here</c>
+
+00:05:55.129 --> 00:05:55.139 align:start position:0%
+what will happen to you, you are taking it near 300, here
+ 
+
+00:05:55.139 --> 00:05:57.230 align:start position:0%
+what will happen to you, you are taking it near 300, here
+this <00:05:55.399><c>becomes </c><00:05:55.659><c>your </c><00:05:55.919><c>second </c><00:05:56.179><c>point, </c><00:05:56.439><c>your </c><00:05:56.699><c>third</c>
+
+00:05:57.230 --> 00:05:57.240 align:start position:0%
+this becomes your second point, your third
+ 
+
+00:05:57.240 --> 00:05:59.810 align:start position:0%
+this becomes your second point, your third
+point <00:05:57.500><c>will </c><00:05:57.760><c>be </c><00:05:58.020><c>somewhere </c><00:05:58.280><c>here, </c><00:05:58.540><c>your </c><00:05:58.800><c>third </c><00:05:59.060><c>point </c><00:05:59.320><c>will </c><00:05:59.580><c>be</c>
+
+00:05:59.810 --> 00:05:59.820 align:start position:0%
+point will be somewhere here, your third point will be
+ 
+
+00:05:59.820 --> 00:06:01.610 align:start position:0%
+point will be somewhere here, your third point will be
+somewhere <00:06:00.000><c>here, </c><00:06:00.180><c>that </c><00:06:00.360><c>means </c><00:06:00.540><c>the </c><00:06:00.720><c>one </c><00:06:00.900><c>you </c><00:06:01.080><c>have </c><00:06:01.260><c>for </c><00:06:01.440><c>the</c>
+
+00:06:01.610 --> 00:06:01.620 align:start position:0%
+somewhere here, that means the one you have for the
+ 
+
+00:06:01.620 --> 00:06:03.890 align:start position:0%
+somewhere here, that means the one you have for the
+x <00:06:02.052><c>axis </c><00:06:02.484><c>in </c><00:06:02.916><c>the </c><00:06:03.348><c>a-axis </c><00:06:03.780><c>will</c>
+
+00:06:03.890 --> 00:06:03.900 align:start position:0%
+x axis in the a-axis will
+ 
+
+00:06:03.900 --> 00:06:05.830 align:start position:0%
+x axis in the a-axis will
+run <00:06:04.290><c>from </c><00:06:04.680><c>here,</c>
+
+00:06:05.830 --> 00:06:05.840 align:start position:0%
+run from here,
+ 
+
+00:06:05.840 --> 00:06:08.330 align:start position:0%
+run from here,
+so <00:06:06.246><c>it </c><00:06:06.652><c>will </c><00:06:07.058><c>change </c><00:06:07.464><c>inside </c><00:06:07.870><c>the </c><00:06:08.276><c>x-axis,</c>
+
+00:06:08.330 --> 00:06:08.340 align:start position:0%
+so it will change inside the x-axis,
+ 
+
+00:06:08.340 --> 00:06:12.050 align:start position:0%
+so it will change inside the x-axis,
+so <00:06:08.733><c>this </c><00:06:09.126><c>300 </c><00:06:09.519><c>will </c><00:06:09.912><c>easily </c><00:06:10.305><c>remain </c><00:06:10.698><c>300, </c><00:06:11.091><c>after </c><00:06:11.484><c>remaining </c><00:06:11.877><c>300,</c>
+
+00:06:12.050 --> 00:06:12.060 align:start position:0%
+so this 300 will easily remain 300, after remaining 300,
+ 
+
+00:06:12.060 --> 00:06:14.090 align:start position:0%
+so this 300 will easily remain 300, after remaining 300,
+what <00:06:12.282><c>will </c><00:06:12.504><c>come </c><00:06:12.726><c>to </c><00:06:12.948><c>you </c><00:06:13.170><c>next, </c><00:06:13.392><c>I </c><00:06:13.614><c>will</c>
+
+00:06:14.090 --> 00:06:14.100 align:start position:0%
+what will come to you next, I will
+ 
+
+00:06:14.100 --> 00:06:16.490 align:start position:0%
+what will come to you next, I will
+keep <00:06:14.439><c>400, </c><00:06:14.778><c>right, </c><00:06:15.117><c>this </c><00:06:15.456><c>is </c><00:06:15.795><c>our </c><00:06:16.134><c>second</c>
+
+00:06:16.490 --> 00:06:16.500 align:start position:0%
+keep 400, right, this is our second
+ 
+
+00:06:16.500 --> 00:06:18.770 align:start position:0%
+keep 400, right, this is our second
+third <00:06:16.979><c>point, </c><00:06:17.458><c>now </c><00:06:17.937><c>inside </c><00:06:18.416><c>this,</c>
+
+00:06:18.770 --> 00:06:18.780 align:start position:0%
+third point, now inside this,
+ 
+
+00:06:18.780 --> 00:06:20.570 align:start position:0%
+third point, now inside this,
+a <00:06:18.942><c>point </c><00:06:19.104><c>will </c><00:06:19.266><c>be </c><00:06:19.428><c>created </c><00:06:19.590><c>below </c><00:06:19.752><c>here </c><00:06:19.914><c>and </c><00:06:20.076><c>a </c><00:06:20.238><c>point </c><00:06:20.400><c>should</c>
+
+00:06:20.570 --> 00:06:20.580 align:start position:0%
+a point will be created below here and a point should
+ 
+
+00:06:20.580 --> 00:06:26.350 align:start position:0%
+a point will be created below here and a point should
+also <00:06:20.670><c>be </c><00:06:20.760><c>created </c><00:06:20.850><c>here, </c><00:06:20.940><c>the</c>
+
+00:06:26.350 --> 00:06:26.360 align:start position:0%
+ 
+ 
+
+00:06:26.360 --> 00:06:29.689 align:start position:0%
+ 
+distance <00:06:26.820><c>is </c><00:06:27.280><c>from </c><00:06:27.740><c>here, </c><00:06:28.200><c>we </c><00:06:28.660><c>will </c><00:06:29.120><c>keep </c><00:06:29.580><c>it</c>
+
+00:06:29.689 --> 00:06:29.699 align:start position:0%
+distance is from here, we will keep it
+ 
+
+00:06:29.699 --> 00:06:31.790 align:start position:0%
+distance is from here, we will keep it
+inside <00:06:29.835><c>the </c><00:06:29.971><c>a </c><00:06:30.107><c>axis, </c><00:06:30.243><c>we </c><00:06:30.379><c>will </c><00:06:30.515><c>go </c><00:06:30.651><c>down </c><00:06:30.787><c>inside </c><00:06:30.923><c>the </c><00:06:31.059><c>a </c><00:06:31.195><c>axis,</c>
+
+00:06:31.790 --> 00:06:31.800 align:start position:0%
+inside the a axis, we will go down inside the a axis,
+ 
+
+00:06:31.800 --> 00:06:34.550 align:start position:0%
+inside the a axis, we will go down inside the a axis,
+what <00:06:32.093><c>will </c><00:06:32.386><c>we </c><00:06:32.679><c>do </c><00:06:32.972><c>with </c><00:06:33.265><c>400, </c><00:06:33.558><c>let's </c><00:06:33.851><c>give </c><00:06:34.144><c>you </c><00:06:34.437><c>600,</c>
+
+00:06:34.550 --> 00:06:34.560 align:start position:0%
+what will we do with 400, let's give you 600,
+ 
+
+00:06:34.560 --> 00:06:37.430 align:start position:0%
+what will we do with 400, let's give you 600,
+right, <00:06:34.999><c>a </c><00:06:35.438><c>big </c><00:06:35.877><c>box </c><00:06:36.316><c>around </c><00:06:36.755><c>600 </c><00:06:37.194><c>is</c>
+
+00:06:37.430 --> 00:06:37.440 align:start position:0%
+right, a big box around 600 is
+ 
+
+00:06:37.440 --> 00:06:38.990 align:start position:0%
+right, a big box around 600 is
+ready <00:06:37.645><c>to </c><00:06:37.850><c>be </c><00:06:38.055><c>made </c><00:06:38.260><c>here, </c><00:06:38.465><c>now </c><00:06:38.670><c>if </c><00:06:38.875><c>we</c>
+
+00:06:38.990 --> 00:06:39.000 align:start position:0%
+ready to be made here, now if we
+ 
+
+00:06:39.000 --> 00:06:40.670 align:start position:0%
+ready to be made here, now if we
+come <00:06:39.260><c>here </c><00:06:39.520><c>on </c><00:06:39.780><c>this </c><00:06:40.040><c>side, </c><00:06:40.300><c>then </c><00:06:40.560><c>this</c>
+
+00:06:40.670 --> 00:06:40.680 align:start position:0%
+come here on this side, then this
+ 
+
+00:06:40.680 --> 00:06:42.110 align:start position:0%
+come here on this side, then this
+point <00:06:40.880><c>is </c><00:06:41.080><c>there, </c><00:06:41.280><c>the </c><00:06:41.480><c>points </c><00:06:41.680><c>of </c><00:06:41.880><c>this</c>
+
+00:06:42.110 --> 00:06:42.120 align:start position:0%
+point is there, the points of this
+ 
+
+00:06:42.120 --> 00:06:44.270 align:start position:0%
+point is there, the points of this
+point <00:06:42.350><c>should </c><00:06:42.580><c>be </c><00:06:42.810><c>from </c><00:06:43.040><c>here, </c><00:06:43.270><c>so </c><00:06:43.500><c>the</c>
+
+00:06:44.270 --> 00:06:44.280 align:start position:0%
+point should be from here, so the
+ 
+
+00:06:44.280 --> 00:06:45.770 align:start position:0%
+point should be from here, so the
+distance <00:06:44.477><c>inside </c><00:06:44.674><c>the </c><00:06:44.871><c>x </c><00:06:45.068><c>axis, </c><00:06:45.265><c>I </c><00:06:45.462><c>have </c><00:06:45.659><c>to</c>
+
+00:06:45.770 --> 00:06:45.780 align:start position:0%
+distance inside the x axis, I have to
+ 
+
+00:06:45.780 --> 00:06:48.050 align:start position:0%
+distance inside the x axis, I have to
+keep <00:06:45.993><c>it </c><00:06:46.206><c>100 </c><00:06:46.419><c>only, </c><00:06:46.632><c>the </c><00:06:46.845><c>distance </c><00:06:47.058><c>inside </c><00:06:47.271><c>the </c><00:06:47.484><c>a </c><00:06:47.697><c>axis</c>
+
+00:06:48.050 --> 00:06:48.060 align:start position:0%
+keep it 100 only, the distance inside the a axis
+ 
+
+00:06:48.060 --> 00:06:50.210 align:start position:0%
+keep it 100 only, the distance inside the a axis
+600 <00:06:48.455><c>right, </c><00:06:48.850><c>I </c><00:06:49.245><c>have </c><00:06:49.640><c>it </c><00:06:50.035><c>here.</c>
+
+00:06:50.210 --> 00:06:50.220 align:start position:0%
+600 right, I have it here.
+ 
+
+00:06:50.220 --> 00:06:51.950 align:start position:0%
+600 right, I have it here.
+Let's <00:06:50.610><c>talk </c><00:06:51.000><c>about </c><00:06:51.390><c>this </c><00:06:51.780><c>close.</c>
+
+00:06:51.950 --> 00:06:51.960 align:start position:0%
+Let's talk about this close.
+ 
+
+00:06:51.960 --> 00:06:53.990 align:start position:0%
+Let's talk about this close.
+This <00:06:52.192><c>close </c><00:06:52.424><c>means </c><00:06:52.656><c>that </c><00:06:52.888><c>if </c><00:06:53.120><c>you </c><00:06:53.352><c>have </c><00:06:53.584><c>an </c><00:06:53.816><c>image,</c>
+
+00:06:53.990 --> 00:06:54.000 align:start position:0%
+This close means that if you have an image,
+ 
+
+00:06:54.000 --> 00:06:55.610 align:start position:0%
+This close means that if you have an image,
+you <00:06:54.500><c>close </c><00:06:55.000><c>it </c><00:06:55.500><c>because</c>
+
+00:06:55.610 --> 00:06:55.620 align:start position:0%
+you close it because
+ 
+
+00:06:55.620 --> 00:06:57.409 align:start position:0%
+you close it because
+we <00:06:55.730><c>have </c><00:06:55.840><c>one </c><00:06:55.950><c>point </c><00:06:56.060><c>here, </c><00:06:56.170><c>one </c><00:06:56.280><c>point </c><00:06:56.390><c>here, </c><00:06:56.500><c>one </c><00:06:56.610><c>point </c><00:06:56.720><c>here, </c><00:06:56.830><c>one </c><00:06:56.940><c>point </c><00:06:57.050><c>here</c>
+
+00:06:57.409 --> 00:06:57.419 align:start position:0%
+we have one point here, one point here, one point here, one point here
+ 
+
+00:06:57.419 --> 00:06:58.850 align:start position:0%
+we have one point here, one point here, one point here, one point here
+and <00:06:58.109><c>one </c><00:06:58.799><c>point</c>
+
+00:06:58.850 --> 00:06:58.860 align:start position:0%
+and one point
+ 
+
+00:06:58.860 --> 00:07:00.770 align:start position:0%
+and one point
+here. <00:06:59.015><c>Close </c><00:06:59.170><c>means </c><00:06:59.325><c>do </c><00:06:59.480><c>you </c><00:06:59.635><c>want </c><00:06:59.790><c>to </c><00:06:59.945><c>close </c><00:07:00.100><c>it </c><00:07:00.255><c>with </c><00:07:00.410><c>the </c><00:07:00.565><c>first </c><00:07:00.720><c>point</c>
+
+00:07:00.770 --> 00:07:00.780 align:start position:0%
+here. Close means do you want to close it with the first point
+ 
+
+00:07:00.780 --> 00:07:02.210 align:start position:0%
+here. Close means do you want to close it with the first point
+or <00:07:00.989><c>do </c><00:07:01.198><c>not </c><00:07:01.407><c>want </c><00:07:01.616><c>to </c><00:07:01.825><c>close </c><00:07:02.034><c>it.</c>
+
+00:07:02.210 --> 00:07:02.220 align:start position:0%
+or do not want to close it.
+ 
+
+00:07:02.220 --> 00:07:04.070 align:start position:0%
+or do not want to close it.
+If <00:07:02.510><c>you </c><00:07:02.800><c>want </c><00:07:03.090><c>to </c><00:07:03.380><c>close </c><00:07:03.670><c>it, </c><00:07:03.960><c>you</c>
+
+00:07:04.070 --> 00:07:04.080 align:start position:0%
+If you want to close it, you
+ 
+
+00:07:04.080 --> 00:07:06.770 align:start position:0%
+If you want to close it, you
+can <00:07:04.410><c>give </c><00:07:04.740><c>it </c><00:07:05.070><c>true. </c><00:07:05.400><c>If </c><00:07:05.730><c>we </c><00:07:06.060><c>talk </c><00:07:06.390><c>about </c><00:07:06.720><c>color,</c>
+
+00:07:06.770 --> 00:07:06.780 align:start position:0%
+can give it true. If we talk about color,
+ 
+
+00:07:06.780 --> 00:07:08.689 align:start position:0%
+can give it true. If we talk about color,
+you <00:07:07.060><c>can </c><00:07:07.340><c>take </c><00:07:07.620><c>the </c><00:07:07.900><c>color </c><00:07:08.180><c>you </c><00:07:08.460><c>want</c>
+
+00:07:08.689 --> 00:07:08.699 align:start position:0%
+you can take the color you want
+ 
+
+00:07:08.699 --> 00:07:10.730 align:start position:0%
+you can take the color you want
+because <00:07:09.019><c>the </c><00:07:09.339><c>color </c><00:07:09.659><c>here </c><00:07:09.979><c>is </c><00:07:10.299><c>in </c><00:07:10.619><c>the</c>
+
+00:07:10.730 --> 00:07:10.740 align:start position:0%
+because the color here is in the
+ 
+
+00:07:10.740 --> 00:07:13.909 align:start position:0%
+because the color here is in the
+bag, <00:07:11.400><c>so </c><00:07:12.060><c>give </c><00:07:12.720><c>it </c><00:07:13.380><c>zero,</c>
+
+00:07:13.909 --> 00:07:13.919 align:start position:0%
+bag, so give it zero,
+ 
+
+00:07:13.919 --> 00:07:15.890 align:start position:0%
+bag, so give it zero,
+give <00:07:14.132><c>255 </c><00:07:14.345><c>zero, </c><00:07:14.558><c>I </c><00:07:14.771><c>am </c><00:07:14.984><c>giving </c><00:07:15.197><c>it </c><00:07:15.410><c>here. </c><00:07:15.623><c>If </c><00:07:15.836><c>we</c>
+
+00:07:15.890 --> 00:07:15.900 align:start position:0%
+give 255 zero, I am giving it here. If we
+ 
+
+00:07:15.900 --> 00:07:17.689 align:start position:0%
+give 255 zero, I am giving it here. If we
+talk <00:07:16.680><c>about </c><00:07:17.460><c>thickness,</c>
+
+00:07:17.689 --> 00:07:17.699 align:start position:0%
+talk about thickness,
+ 
+
+00:07:17.699 --> 00:07:19.370 align:start position:0%
+talk about thickness,
+how <00:07:17.852><c>much </c><00:07:18.005><c>should </c><00:07:18.158><c>be </c><00:07:18.311><c>its </c><00:07:18.464><c>thickness, </c><00:07:18.617><c>so </c><00:07:18.770><c>I </c><00:07:18.923><c>said </c><00:07:19.076><c>a</c>
+
+00:07:19.370 --> 00:07:19.380 align:start position:0%
+how much should be its thickness, so I said a
+ 
+
+00:07:19.380 --> 00:07:21.409 align:start position:0%
+how much should be its thickness, so I said a
+thickness <00:07:19.577><c>of </c><00:07:19.774><c>4 </c><00:07:19.971><c>is </c><00:07:20.168><c>correct </c><00:07:20.365><c>here. </c><00:07:20.562><c>If </c><00:07:20.759><c>we</c>
+
+00:07:21.409 --> 00:07:21.419 align:start position:0%
+thickness of 4 is correct here. If we
+ 
+
+00:07:21.419 --> 00:07:23.210 align:start position:0%
+thickness of 4 is correct here. If we
+talk <00:07:21.581><c>about </c><00:07:21.743><c>line </c><00:07:21.905><c>type, </c><00:07:22.067><c>I </c><00:07:22.229><c>am </c><00:07:22.391><c>giving </c><00:07:22.553><c>it </c><00:07:22.715><c>in </c><00:07:22.877><c>line </c><00:07:23.039><c>type</c>
+
+00:07:23.210 --> 00:07:23.220 align:start position:0%
+talk about line type, I am giving it in line type
+ 
+
+00:07:23.220 --> 00:07:26.270 align:start position:0%
+talk about line type, I am giving it in line type
+16, <00:07:23.699><c>that </c><00:07:24.178><c>means </c><00:07:24.657><c>your </c><00:07:25.136><c>A </c><00:07:25.615><c>type </c><00:07:26.094><c>of</c>
+
+00:07:26.270 --> 00:07:26.280 align:start position:0%
+16, that means your A type of
+ 
+
+00:07:26.280 --> 00:07:27.409 align:start position:0%
+16, that means your A type of
+line, <00:07:26.564><c>I </c><00:07:26.848><c>am </c><00:07:27.132><c>taking </c><00:07:27.416><c>it</c>
+
+00:07:27.409 --> 00:07:27.419 align:start position:0%
+line, I am taking it
+ 
+
+00:07:27.419 --> 00:07:29.629 align:start position:0%
+line, I am taking it
+here <00:07:27.659><c>date </c><00:07:27.899><c>16. </c><00:07:28.139><c>Now </c><00:07:28.379><c>if </c><00:07:28.619><c>I </c><00:07:28.859><c>do </c><00:07:29.099><c>that </c><00:07:29.339><c>here,</c>
+
+00:07:29.629 --> 00:07:29.639 align:start position:0%
+here date 16. Now if I do that here,
+ 
+
+00:07:29.639 --> 00:07:31.249 align:start position:0%
+here date 16. Now if I do that here,
+see <00:07:29.811><c>it </c><00:07:29.983><c>has </c><00:07:30.155><c>become </c><00:07:30.327><c>a </c><00:07:30.499><c>polynom. </c><00:07:30.671><c>Now </c><00:07:30.843><c>it </c><00:07:31.015><c>has</c>
+
+00:07:31.249 --> 00:07:31.259 align:start position:0%
+see it has become a polynom. Now it has
+ 
+
+00:07:31.259 --> 00:07:33.350 align:start position:0%
+see it has become a polynom. Now it has
+become <00:07:31.379><c>a </c><00:07:31.499><c>poly </c><00:07:31.619><c>at </c><00:07:31.739><c>a </c><00:07:31.859><c>lower </c><00:07:31.979><c>level. </c><00:07:32.099><c>It </c><00:07:32.219><c>will </c><00:07:32.339><c>have </c><00:07:32.459><c>to </c><00:07:32.579><c>be </c><00:07:32.699><c>taken </c><00:07:32.819><c>to </c><00:07:32.939><c>a </c><00:07:33.059><c>higher </c><00:07:33.179><c>level.</c>
+
+00:07:33.350 --> 00:07:33.360 align:start position:0%
+become a poly at a lower level. It will have to be taken to a higher level.
+ 
+
+00:07:33.360 --> 00:07:35.089 align:start position:0%
+become a poly at a lower level. It will have to be taken to a higher level.
+So <00:07:33.639><c>I </c><00:07:33.918><c>will </c><00:07:34.197><c>take </c><00:07:34.476><c>it </c><00:07:34.755><c>up </c><00:07:35.034><c>here,</c>
+
+00:07:35.089 --> 00:07:35.099 align:start position:0%
+So I will take it up here,
+ 
+
+00:07:35.099 --> 00:07:37.370 align:start position:0%
+So I will take it up here,
+okay, <00:07:35.354><c>and </c><00:07:35.609><c>take </c><00:07:35.864><c>it </c><00:07:36.119><c>up.  </c><00:07:36.374><c>To </c><00:07:36.629><c>go, </c><00:07:36.884><c>I </c><00:07:37.139><c>will</c>
+
+00:07:37.370 --> 00:07:37.380 align:start position:0%
+okay, and take it up.  To go, I will
+ 
+
+00:07:37.380 --> 00:07:38.930 align:start position:0%
+okay, and take it up.  To go, I will
+first <00:07:37.476><c>have </c><00:07:37.572><c>to </c><00:07:37.668><c>delete </c><00:07:37.764><c>this </c><00:07:37.860><c>point. </c><00:07:37.956><c>I </c><00:07:38.052><c>have </c><00:07:38.148><c>to </c><00:07:38.244><c>make </c><00:07:38.340><c>this</c>
+
+00:07:38.930 --> 00:07:38.940 align:start position:0%
+first have to delete this point. I have to make this
+ 
+
+00:07:38.940 --> 00:07:41.089 align:start position:0%
+first have to delete this point. I have to make this
+point <00:07:39.300><c>200. </c><00:07:39.660><c>Okay, </c><00:07:40.020><c>this </c><00:07:40.380><c>200 </c><00:07:40.740><c>bike</c>
+
+00:07:41.089 --> 00:07:41.099 align:start position:0%
+point 200. Okay, this 200 bike
+ 
+
+00:07:41.099 --> 00:07:43.370 align:start position:0%
+point 200. Okay, this 200 bike
+angle <00:07:41.332><c>has </c><00:07:41.565><c>200 </c><00:07:41.798><c>points </c><00:07:42.031><c>and </c><00:07:42.264><c>it </c><00:07:42.497><c>will </c><00:07:42.730><c>be </c><00:07:42.963><c>much </c><00:07:43.196><c>smaller</c>
+
+00:07:43.370 --> 00:07:43.380 align:start position:0%
+angle has 200 points and it will be much smaller
+ 
+
+00:07:43.380 --> 00:07:45.170 align:start position:0%
+angle has 200 points and it will be much smaller
+here. <00:07:43.640><c>Like </c><00:07:43.900><c>where </c><00:07:44.160><c>will </c><00:07:44.420><c>this </c><00:07:44.680><c>point </c><00:07:44.940><c>go</c>
+
+00:07:45.170 --> 00:07:45.180 align:start position:0%
+here. Like where will this point go
+ 
+
+00:07:45.180 --> 00:07:46.749 align:start position:0%
+here. Like where will this point go
+
+
+00:07:46.749 --> 00:07:46.759 align:start position:0%
+ 
+ 
+
+00:07:46.759 --> 00:07:50.270 align:start position:0%
+ 
+and <00:07:47.015><c>this </c><00:07:47.271><c>point </c><00:07:47.527><c>was </c><00:07:47.783><c>just </c><00:07:48.039><c>in </c><00:07:48.295><c>front </c><00:07:48.551><c>of </c><00:07:48.807><c>it, </c><00:07:49.063><c>this </c><00:07:49.319><c>will </c><00:07:49.575><c>also </c><00:07:49.831><c>become </c><00:07:50.087><c>200</c>
+
+00:07:50.270 --> 00:07:50.280 align:start position:0%
+and this point was just in front of it, this will also become 200
+ 
+
+00:07:50.280 --> 00:07:53.210 align:start position:0%
+and this point was just in front of it, this will also become 200
+and <00:07:50.495><c>it </c><00:07:50.710><c>will </c><00:07:50.925><c>become </c><00:07:51.140><c>much </c><00:07:51.355><c>smaller. </c><00:07:51.570><c>It </c><00:07:51.785><c>will </c><00:07:52.000><c>become </c><00:07:52.215><c>500. </c><00:07:52.430><c>It </c><00:07:52.645><c>will </c><00:07:52.860><c>be</c>
+
+00:07:53.210 --> 00:07:54.529 align:start position:0%
+and it will become much smaller. It will become 500. It will be
+ 
+
+00:07:54.529 --> 00:07:54.539 align:start position:0%
+ 
+ 
+
+00:07:54.539 --> 00:07:56.990 align:start position:0%
+ 
+much <00:07:54.873><c>smaller. </c><00:07:55.207><c>It </c><00:07:55.541><c>will </c><00:07:55.875><c>become </c><00:07:56.209><c>500. </c><00:07:56.543><c>See, </c><00:07:56.877><c>in</c>
+
+00:07:56.990 --> 00:07:57.000 align:start position:0%
+much smaller. It will become 500. See, in
+ 
+
+00:07:57.000 --> 00:07:59.029 align:start position:0%
+much smaller. It will become 500. See, in
+this <00:07:57.225><c>way </c><00:07:57.450><c>the </c><00:07:57.675><c>pentagon </c><00:07:57.900><c>has </c><00:07:58.125><c>been </c><00:07:58.350><c>formed. </c><00:07:58.575><c>Now </c><00:07:58.800><c>you</c>
+
+00:07:59.029 --> 00:07:59.039 align:start position:0%
+this way the pentagon has been formed. Now you
+ 
+
+00:07:59.039 --> 00:08:00.950 align:start position:0%
+this way the pentagon has been formed. Now you
+can <00:07:59.339><c>decide </c><00:07:59.639><c>according </c><00:07:59.939><c>to </c><00:08:00.239><c>yourself </c><00:08:00.539><c>how </c><00:08:00.839><c>to</c>
+
+00:08:00.950 --> 00:08:00.960 align:start position:0%
+can decide according to yourself how to
+ 
+
+00:08:00.960 --> 00:08:02.930 align:start position:0%
+can decide according to yourself how to
+make <00:08:01.093><c>it. </c><00:08:01.226><c>Now </c><00:08:01.359><c>if </c><00:08:01.492><c>I </c><00:08:01.625><c>do </c><00:08:01.758><c>not </c><00:08:01.891><c>close </c><00:08:02.024><c>it, </c><00:08:02.157><c>if </c><00:08:02.290><c>I </c><00:08:02.423><c>make </c><00:08:02.556><c>the </c><00:08:02.689><c>close</c>
+
+00:08:02.930 --> 00:08:04.730 align:start position:0%
+make it. Now if I do not close it, if I make the close
+ 
+
+00:08:04.730 --> 00:08:04.740 align:start position:0%
+ 
+ 
+
+00:08:04.740 --> 00:08:07.010 align:start position:0%
+ 
+false, <00:08:05.820><c>the </c><00:08:06.900><c>way</c>
+
+00:08:07.010 --> 00:08:07.020 align:start position:0%
+false, the way
+ 
+
+00:08:07.020 --> 00:08:08.570 align:start position:0%
+false, the way
+I <00:08:07.270><c>did </c><00:08:07.520><c>it </c><00:08:07.770><c>here, </c><00:08:08.020><c>here </c><00:08:08.270><c>I </c><00:08:08.520><c>pause,</c>
+
+00:08:08.570 --> 00:08:08.580 align:start position:0%
+I did it here, here I pause,
+ 
+
+00:08:08.580 --> 00:08:10.490 align:start position:0%
+I did it here, here I pause,
+close <00:08:08.828><c>and </c><00:08:09.076><c>run. </c><00:08:09.324><c>So </c><00:08:09.572><c>it </c><00:08:09.820><c>is </c><00:08:10.068><c>not </c><00:08:10.316><c>closing.</c>
+
+00:08:10.490 --> 00:08:10.500 align:start position:0%
+close and run. So it is not closing.
+ 
+
+00:08:10.500 --> 00:08:11.749 align:start position:0%
+close and run. So it is not closing.
+Your <00:08:10.603><c>lines </c><00:08:10.706><c>keep </c><00:08:10.809><c>joining </c><00:08:10.912><c>all </c><00:08:11.015><c>the </c><00:08:11.118><c>lines. </c><00:08:11.221><c>If </c><00:08:11.324><c>you </c><00:08:11.427><c>want </c><00:08:11.530><c>to </c><00:08:11.633><c>join</c>
+
+00:08:11.749 --> 00:08:11.759 align:start position:0%
+Your lines keep joining all the lines. If you want to join
+ 
+
+00:08:11.759 --> 00:08:13.610 align:start position:0%
+Your lines keep joining all the lines. If you want to join
+your
+
+00:08:13.610 --> 00:08:13.620 align:start position:0%
+your
+ 
+
+00:08:13.620 --> 00:08:14.930 align:start position:0%
+your
+ending <00:08:13.754><c>point, </c><00:08:13.888><c>which </c><00:08:14.022><c>is </c><00:08:14.156><c>the </c><00:08:14.290><c>starting </c><00:08:14.424><c>point, </c><00:08:14.558><c>then </c><00:08:14.692><c>you</c>
+
+00:08:14.930 --> 00:08:17.089 align:start position:0%
+ending point, which is the starting point, then you
+ 
+
+00:08:17.089 --> 00:08:17.099 align:start position:0%
+ 
+ 
+
+00:08:17.099 --> 00:08:18.770 align:start position:0%
+ 
+will <00:08:17.474><c>close </c><00:08:17.849><c>it. </c><00:08:18.224><c>You </c><00:08:18.599><c>will</c>
+
+00:08:18.770 --> 00:08:18.780 align:start position:0%
+will close it. You will
+ 
+
+00:08:18.780 --> 00:08:21.409 align:start position:0%
+will close it. You will
+not <00:08:19.140><c>close </c><00:08:19.500><c>it. </c><00:08:19.860><c>I </c><00:08:20.220><c>will </c><00:08:20.580><c>start </c><00:08:20.940><c>back </c><00:08:21.300><c>here</c>
+
+00:08:21.409 --> 00:08:21.419 align:start position:0%
+not close it. I will start back here
+ 
+
+00:08:21.419 --> 00:08:23.629 align:start position:0%
+not close it. I will start back here
+so <00:08:21.681><c>that </c><00:08:21.943><c>I </c><00:08:22.205><c>can </c><00:08:22.467><c>close </c><00:08:22.729><c>it, </c><00:08:22.991><c>then </c><00:08:23.253><c>it </c><00:08:23.515><c>will</c>
+
+00:08:23.629 --> 00:08:23.639 align:start position:0%
+so that I can close it, then it will
+ 
+
+00:08:23.639 --> 00:08:26.029 align:start position:0%
+so that I can close it, then it will
+also <00:08:23.786><c>be </c><00:08:23.933><c>closed </c><00:08:24.080><c>in </c><00:08:24.227><c>front </c><00:08:24.374><c>of </c><00:08:24.521><c>you </c><00:08:24.668><c>in </c><00:08:24.815><c>this </c><00:08:24.962><c>way. </c><00:08:25.109><c>Now </c><00:08:25.256><c>let's</c>
+
+00:08:26.029 --> 00:08:26.039 align:start position:0%
+also be closed in front of you in this way. Now let's
+ 
+
+00:08:26.039 --> 00:08:27.650 align:start position:0%
+also be closed in front of you in this way. Now let's
+talk <00:08:26.205><c>about </c><00:08:26.371><c>how </c><00:08:26.537><c>many </c><00:08:26.703><c>lines </c><00:08:26.869><c>it </c><00:08:27.035><c>has. </c><00:08:27.201><c>Then </c><00:08:27.367><c>you </c><00:08:27.533><c>will</c>
+
+00:08:27.650 --> 00:08:27.660 align:start position:0%
+talk about how many lines it has. Then you will
+ 
+
+00:08:27.660 --> 00:08:29.809 align:start position:0%
+talk about how many lines it has. Then you will
+According <00:08:27.834><c>to </c><00:08:28.008><c>you, </c><00:08:28.182><c>if </c><00:08:28.356><c>you </c><00:08:28.530><c>want </c><00:08:28.704><c>to </c><00:08:28.878><c>add </c><00:08:29.052><c>text </c><00:08:29.226><c>here, </c><00:08:29.400><c>by </c><00:08:29.574><c>using</c>
+
+00:08:29.809 --> 00:08:29.819 align:start position:0%
+According to you, if you want to add text here, by using
+ 
+
+00:08:29.819 --> 00:08:32.209 align:start position:0%
+According to you, if you want to add text here, by using
+point <00:08:30.539><c>text, </c><00:08:31.259><c>you </c><00:08:31.979><c>can</c>
+
+00:08:32.209 --> 00:08:32.219 align:start position:0%
+point text, you can
+ 
+
+00:08:32.219 --> 00:08:34.310 align:start position:0%
+point text, you can
+also <00:08:32.539><c>apply </c><00:08:32.859><c>tax </c><00:08:33.179><c>inside </c><00:08:33.499><c>it, </c><00:08:33.819><c>so </c><00:08:34.139><c>I</c>
+
+00:08:34.310 --> 00:08:34.320 align:start position:0%
+also apply tax inside it, so I
+ 
+
+00:08:34.320 --> 00:08:36.529 align:start position:0%
+also apply tax inside it, so I
+think <00:08:34.656><c>I </c><00:08:34.992><c>hope </c><00:08:35.328><c>you </c><00:08:35.664><c>have </c><00:08:36.000><c>understood</c>
+
+00:08:36.529 --> 00:08:36.539 align:start position:0%
+think I hope you have understood
+ 
+
+00:08:36.539 --> 00:08:39.170 align:start position:0%
+think I hope you have understood
+how <00:08:36.949><c>you </c><00:08:37.359><c>can </c><00:08:37.769><c>make </c><00:08:38.179><c>a </c><00:08:38.589><c>polygon </c><00:08:38.999><c>here,</c>
+
+00:08:39.170 --> 00:08:39.180 align:start position:0%
+how you can make a polygon here,
+ 
+
+00:08:39.180 --> 00:08:40.490 align:start position:0%
+how you can make a polygon here,
+I <00:08:39.342><c>have </c><00:08:39.504><c>told </c><00:08:39.666><c>you </c><00:08:39.828><c>to </c><00:08:39.990><c>make </c><00:08:40.152><c>a </c><00:08:40.314><c>triangle,</c>
+
+00:08:40.490 --> 00:08:40.500 align:start position:0%
+I have told you to make a triangle,
+ 
+
+00:08:40.500 --> 00:08:42.949 align:start position:0%
+I have told you to make a triangle,
+you <00:08:40.658><c>just </c><00:08:40.816><c>have </c><00:08:40.974><c>to </c><00:08:41.132><c>make </c><00:08:41.290><c>a </c><00:08:41.448><c>rectangle </c><00:08:41.606><c>here, </c><00:08:41.764><c>if </c><00:08:41.922><c>you </c><00:08:42.080><c>want </c><00:08:42.238><c>to</c>
+
+00:08:42.949 --> 00:08:42.959 align:start position:0%
+you just have to make a rectangle here, if you want to
+ 
+
+00:08:42.959 --> 00:08:45.110 align:start position:0%
+you just have to make a rectangle here, if you want to
+make <00:08:43.355><c>any </c><00:08:43.751><c>other </c><00:08:44.147><c>polygon, </c><00:08:44.543><c>then </c><00:08:44.939><c>you</c>
+
+00:08:45.110 --> 00:08:45.120 align:start position:0%
+make any other polygon, then you
+ 
+
+00:08:45.120 --> 00:08:47.210 align:start position:0%
+make any other polygon, then you
+can <00:08:45.360><c>make </c><00:08:45.600><c>it </c><00:08:45.840><c>easily, </c><00:08:46.080><c>so </c><00:08:46.320><c>that's </c><00:08:46.560><c>all </c><00:08:46.800><c>for </c><00:08:47.040><c>today's</c>
+
+00:08:47.210 --> 00:08:47.220 align:start position:0%
+can make it easily, so that's all for today's
+ 
+
+00:08:47.220 --> 00:08:48.889 align:start position:0%
+can make it easily, so that's all for today's
+video, <00:08:47.620><c>see </c><00:08:48.020><c>you </c><00:08:48.420><c>in</c>
+
+00:08:48.889 --> 00:08:48.899 align:start position:0%
+video, see you in
+ 
+
+00:08:48.899 --> 00:08:51.170 align:start position:0%
+video, see you in
+our <00:08:49.147><c>next </c><00:08:49.395><c>video </c><00:08:49.643><c>where </c><00:08:49.891><c>we </c><00:08:50.139><c>are </c><00:08:50.387><c>going </c><00:08:50.635><c>to</c>
+
+00:08:51.170 --> 00:08:51.180 align:start position:0%
+our next video where we are going to
+ 
+
+00:08:51.180 --> 00:08:52.670 align:start position:0%
+our next video where we are going to
+discuss <00:08:51.525><c>some </c><00:08:51.870><c>more </c><00:08:52.215><c>interesting </c><00:08:52.560><c>topic,</c>
+
+00:08:52.670 --> 00:08:52.680 align:start position:0%
+discuss some more interesting topic,
+ 
+
+00:08:52.680 --> 00:08:54.410 align:start position:0%
+discuss some more interesting topic,
+until <00:08:52.950><c>then </c><00:08:53.220><c>stay </c><00:08:53.490><c>with </c><00:08:53.760><c>us, </c><00:08:54.030><c>thank </c><00:08:54.300><c>you,</c>
+
+00:08:54.410 --> 00:08:54.420 align:start position:0%
+until then stay with us, thank you,
+ 
+
+00:08:54.420 --> 00:08:56.740 align:start position:0%
+until then stay with us, thank you,
+good <00:08:55.860><c>bye</c>
+
+00:08:56.740 --> 00:08:56.750 align:start position:0%
+good bye
+ 
+
+00:08:56.750 --> 00:08:58.860 align:start position:0%
+good bye
+[Prashaas]
+
+00:08:58.860 --> 00:08:58.870 align:start position:0%
+[Prashaas]
+ 
+
+00:08:58.870 --> 00:09:05.130 align:start position:0%
+[Prashaas]
+[Music]
+
+00:09:05.130 --> 00:09:05.140 align:start position:0%
+ 
+ 
+
+00:09:05.140 --> 00:09:13.210 align:start position:0%
+ 
+[Music]
+
